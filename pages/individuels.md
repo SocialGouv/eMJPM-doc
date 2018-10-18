@@ -33,7 +33,7 @@ Pour vous créer un compte:
 
 - Une fois toutes les informations rentrées et vérifiées, cliquez sur “Créer mon compte”.
 
-#### Attention: 
+**Attention:** 
 Votre mot de passe doit être composé de 10 caractères minimum.
     
 Les champs possédant une astérisque sont obligatoires.
