@@ -43,6 +43,8 @@ Les champs possédant une astérisque sont obligatoires.
 
 ## Se connecter / se déconnecter
 
+### Se connecter
+
 Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
 ![homepage](/static/images/homepage.png)
