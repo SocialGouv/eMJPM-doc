@@ -70,9 +70,9 @@ Une fois sur la page de connexion:
 
 Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre première connexion à :
 - Compléter et mettre à jour la section “Mes informations”.
-    - Mes coordonnées
-    - Le nombre de mesures souhaitées
-    - Si je dispose d'un secrétariat
+  - Mes coordonnées
+  - Le nombre de mesures souhaitées
+  - Si je dispose d'un secrétariat
 - Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
 -   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
