@@ -217,29 +217,26 @@ Dans la fenêtre qui apparaît:
 
 ![modifierunemesure2.png](/static/images/individuels/modifierunemesure2.png)
   
-
 &nbsp;
 
 ## Mettre fin à une mesure en cours
 
-Dans l'onglet "Mesures en cours", cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée.
+Dans l'onglet "Mesures en cours" :
+- Cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée. 
 
-![mesure-fin-mandat](/static/images/individuels/mesure-fin-mandat.png)
+![mettrefinaumesure1.png](/static/images/individuels/mettrefinaumesure1.png)
   
+Dans la fenêtre qui apparaît:
+- Rentrez la date de fin de mandat.
+- Puis cliquez sur “Eteindre la mesure”.
 
-&nbsp;
+![mettrefinaumesure2.png](/static/images/individuels/mettrefinaumesure2.png)
 
-Complétez la date de fin de mandat et cliquez sur le bouton « Eteindre la mesure ».
+La mesure apparaît alors dans l'onglet "Mesures éteintes". 
 
-![mesure-eteindre](/static/images/individuels/mesure-eteindre.png)
-  
+**Attention:** Vous avez toujours la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure" qui se situe dans l'onglet “Mesures éteintes”.
 
-&nbsp;
-
-La mesure apparaît alors dans l'onglet "Mesures éteintes". Mais vous avez la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure".
-
-![mesure-reactiver](/static/images/individuels/mesure-reactiver.png)
-  
+![mettrefinaumesure3.png](/static/images/individuels/mettrefinaumesure3.png)
 
 &nbsp;
 
