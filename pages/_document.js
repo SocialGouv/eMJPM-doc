@@ -7,22 +7,17 @@ export default class MyDocument extends Document {
   }
 
   render() {
-    return (
-      <html>
+    return <html>
         <Head>
           <title>Documentation</title>
-          <style>{`body { margin: 0 } /* custom! */`}</style>
+          <style>{`body,  ul > li > p { margin: 0 } /* custom! */`}</style>
           <link rel="stylesheet" href="/_next/static/style.css" />
-          <link
-            href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css"
-            rel="stylesheet"
-          />
+          <link href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css" rel="stylesheet" />
         </Head>
         <body className="custom_class">
           <Main />
           <NextScript />
         </body>
-      </html>
-    );
+      </html>;
   }
 }
