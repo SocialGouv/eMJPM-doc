@@ -65,7 +65,7 @@ Une fois sur la page de connexion:
 ### Se deconnecter
 - Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
 
-<img src="/static/images/individuels/sedeconnecter.png" alt="sedeconnecter.png"width="100%" >
+![sedeconnecter](/static/images/individuels/sedeconnecter.png)
 
 &nbsp;
 
@@ -145,7 +145,7 @@ Dans la fenêtre qui apparaît:
 
 ![mettreajourmesinfos2](/static/images/individuels/mettreajourmesinfos2.png)
 
-**Modifier le ou les TI sur le(s)quel(s) vous êtes agréé** 
+### Modifier le ou les TI sur le(s)quel(s) vous êtes agréé
 
 Dans l'onglet "Mes informations" :
 
@@ -158,24 +158,30 @@ Dans l'onglet "Mes informations" :
 
 &nbsp;
 
-## Enregistrer vos mesures / rajouter une nouvelle mesure
+## Enregistrer mes mesures / rajouter une nouvelle mesure
 
-Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. 
+###  Enregistrer mes mesures
 
-
-Completez pour chaque mesure :
- - la date de décision de la mesure
- - le type de mesure 
- - le code postal et la commune de lieu de vie du majeur
- - le genre du majeur
- - l'année de naissance du majeur
- - préciser si le majeur vit à domicile ou en établissement
+Dans l'onglet "Mesures en cours" :
+- Cliquez sur le bouton "Créer une nouvelle mesure" à gauche de l'écran.
  
-Si le majeur vit en établissement, précisez le nom de l'établissement. Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
+![enregistrermesmesures1.png](/static/images/individuels/enregistrermesmesures1.png)
 
-Validez enfin la mesure en cliquant sur le bouton "Valider".
+- Complétez pour chaque mesure :
+  - La date de décision de la mesure
+  - Le type de mesure
+  - Le code postal et la commune de lieu de vie du majeur
+  - Le genre du majeur
+  - L'année de naissance du majeur
+  - Précisez si le majeur vit à domicile ou en établissement
+Si le majeur vit en établissement, merci de préciser le nom de l'établissement. 
+Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
+- Validez la mesure en cliquant sur le bouton "Enregistrer la mesure".
+- Si vous ne désirez pas enregistrer la mesure, cliquez sur le bouton “ Annuler”.
 
-![mesure-modale](/static/images/individuels/mesure-modale.png)
+![enregistrermesmesures2.png](/static/images/individuels/enregistrermesmesures2.png)
+ 
+
   
 
 &nbsp;
