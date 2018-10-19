@@ -20,9 +20,9 @@ Pour vous créer un compte:
 
 - Sélectionnez les tribunaux où vous êtes agréé.
 
-    Ex : 	Hauts-de-France
+    *Ex : 	Hauts-de-France*
     
-    Tribunal d'Instance de Calais
+    *Tribunal d'Instance de Calais*
 
 - Puis dans la section “ Vous êtes un mandataire :” cochez la case “Individuel”.
 
@@ -45,74 +45,94 @@ Les champs possédant une astérisque sont obligatoires.
 
 ### Se connecter
 
-Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
+Pour vous connecter:
+- Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
-![homepage](/static/images/homepage.png)
+![seconnecter1.png](/static/images/seconnecter1.png)
 
+Une fois sur la page de connexion:
+- Indiquez votre identifiant ainsi que votre mot de passe.
+- Cliquez sur le bouton "Me connecter".
+
+**Attention:**
+ Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et de votre mot de passe.
+
+![seconnecter2.png](/static/images/seconnecter2.png)
+
+[Contactez-nous] en cas de difficulté de connexion.(contact@emjpm.beta.gouv.fr).
+
+### Se deconnecter
+- Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
+
+![sedeconnecter.png](/static/images/individuels/sedeconnecter.png)
 
 &nbsp;
 
-Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Puis cliquez sur le bouton "Me connecter". Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
-
-![login](/static/images/login.png)
-
-
-&nbsp;
-
-Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
 
 ## Première connexion
 
-Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations, les tribunaux d'instance où vous êtes agréé et saisir vos mesures en cours.
+Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre première connexion à :
+- Compléter et mettre à jour la section “Mes informations”.
+    - Mes coordonnées
+    - Le nombre de mesures souhaitées
+    - Si je dispose d'un secrétariat
+- Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
+-   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
-Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
+**Attention:**
+
+ Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et des fermetures des mesures suivies.
+
+Les champs possédant une astérisque sont obligatoires.
+
 
 **1ere étape : complétez vos informations** 
 
-Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
+- Cliquez sur l'onglet "Mes informations".
+- Puis cliquez sur le bouton "Modifier mon profil" en bas de l'écran pour ajouter vos informations.
 
-![mes-informations](/static/images/individuels/mes-informations.png)
+![mettreajourmesinfos1](/static/images/individuels/mettreajourmesinfos1.png)
 
 
-&nbsp;
+Dans la fenêtre qui apparaît:
+- Complétez vos informations.
+  - Nom, prénom, genre
+  - Adresse, téléphone, email
+  - Le nombre de mesures souhaitées
+  Le cas échéant, le nombre d'ETP de secrétariat
+- Puis cliquez sur le bouton "Valider".  
 
-Dans la fenêtre, complétez vos informations :
+**Attention:**
 
- - Nom, adresse, téléphone, mail
- - Le nombre de mesures souhaité
- - Le cas échéant, le nombre d'ETP de secrétariat
- 
-Puis cliquez sur le bouton "Enregistrer".
- 
-![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
+ Les champs possédant une astérisque sont obligatoires.
 
+![mettreajourmesinfos2](/static/images/individuels/mettreajourmesinfos2.png)
 
 &nbsp;  
 
 **2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
-Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un nouveau TI" en haut de l'écran. 
+Dans l'onglet "Mes informations" :
 
-![mes-informations-ti](/static/images/individuels/mes-informations-ti.png)
+- Dans le champs “Tribunaux d'Instance ou je suis agrée”, saisissez les premières lettres du Tribunal d'Instance.
+- Puis sélectionnez le Tribunal d'Instance dans la liste des TI proposés.
+- Répétez l'opération si vous êtes agréé dans plusieurs TI.
+- Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
 
-
-&nbsp;
-
-Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI proposés puis cliquez sur le bouton "Valider". Répétez l'opération si vous êtes agréé dans plusieurs TI.
-
-![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
+![mettreajourmesinfos3](/static/images/individuels/mettreajourmesinfos3.png)
 
 
 &nbsp;
 
 **3eme étape : Saisissez vos mesures en cours** 
 
-Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos mesures en cours. Rassurez vous, cette étape n'est à faire qu'une fois. Pas la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
+Dès votre première connexion, nous vous invitons à enregistrer **toutes vos mesures en cours**. Rassurez vous, cette étape n'est à faire qu'une fois. Par la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
-Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-vos-mesures).
+Pour saisir vos mesures en cours, suivez les indications listées dans la section [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-mes-mesures-/-rajouter-une-nouvelle-mesure).
 
 
-## Enregistrer vos mesures
+
+## Enregistrer vos mesures / rajouter une nouvelle mesure
 
 Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran. 
 
