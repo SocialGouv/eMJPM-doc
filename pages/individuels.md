@@ -62,7 +62,6 @@ Une fois sur la page de connexion:
 
 <img src="/static/images/individuels/seconnecter2.png" alt="comment se connecter etape 2" width="100%" />
 
-[Contactez-nous] en cas de difficulté de connexion.(contact@emjpm.beta.gouv.fr).
 
 ### Se deconnecter
 - Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
@@ -71,6 +70,7 @@ Une fois sur la page de connexion:
 
 &nbsp;
 
+
 ## Première connexion
 
 Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre première connexion à :
@@ -78,11 +78,11 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre pre
     - Mes coordonnées
     - Le nombre de mesures souhaitées
     - Si je dispose d'un secrétariat
+
 - Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
 -   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
 **Attention:** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et des fermetures des mesures suivies.
-
 Les champs possédant une astérisque sont obligatoires.
 
 **1ere étape : complétez vos informations** 
