@@ -78,7 +78,6 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre pre
     - Mes coordonnées
     - Le nombre de mesures souhaitées
     - Si je dispose d'un secrétariat
-
 - Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
 -   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
@@ -120,7 +119,7 @@ Dans l'onglet "Mes informations" :
 
 Dès votre première connexion, nous vous invitons à enregistrer **toutes vos mesures en cours**. Rassurez vous, cette étape n'est à faire qu'une fois. Par la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
-Pour saisir vos mesures en cours, suivez les indications listées dans la section [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-mes-mesures-/-rajouter-une-nouvelle-mesure).
+Pour saisir vos mesures en cours, suivez les indications listées dans la section Enregistrer mes mesures / rajouter une nouvelle mesure.
 
 &nbsp;
 
@@ -183,30 +182,40 @@ Saisissez les premières lettres du nom de l'établissement, des propositions ap
 
 ![enregistrermesmesures2.png](/static/images/individuels/enregistrermesmesures2.png)
  
+La mesure nouvellement saisie apparaît alors dans le tableau listant les mesures en cours. 
 
-  
+Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est automatiquement actualisé.
 
-&nbsp;
+ **Attention:** Réitérer l'opération plusieurs fois afin de rentrer l'ensemble de vos mesure en cours. 
 
-La mesure nouvellement saisie apparaît alors dans la liste des mesures en cours. Le nombre de mesures suivies affiché dans l'onglet est automatiquement actualisé.
+![enregistrermesmesures3.png](/static/images/individuels/enregistrermesmesures3.png)
 
-![mesure-valider](/static/images/individuels/mesure-valider.png)
+###  Rajouter une nouvelle mesure
 
+Le procédé est exactement le même que celui listé ci-dessus pour enregistrer une mesure. 
 
 &nbsp;
 
 ## Modifier une mesure en cours
 
-Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure), cliquez sur l'onglet "Mesures en cours", puis sur le bouton « Modifier » correspondant à la mesure concernée.
+Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure) :
+- Cliquez sur l'onglet "Mesures en cours".
+- Puis cliquez sur le bouton « Modifier » correspondant à la mesure concernée
 
-![mesure-modifier](/static/images/individuels/mesure-modifier.png)
+![modifierunemesure1.png](/static/images/individuels/modifierunemesure1.png)
 
+Dans la fenêtre qui apparaît:
+- Modifiez les données souhaitées.
+  - Date d'ouverture de la mesure
+  - Type de mesure
+  - Résidence du majeur à protéger
+  - Genre
+  - Année de naissance du majeur à protéger
+- Puis cliquez sur le bouton "Valider".
 
-&nbsp;
+**Attention:** Les champs possédant une astérisque sont obligatoires.
 
-Modifiez ensuite les données et cliquez sur le bouton "Valider".
-
-![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
+![modifierunemesure2.png](/static/images/individuels/modifierunemesure2.png)
   
 
 &nbsp;
