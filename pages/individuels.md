@@ -70,7 +70,6 @@ Une fois sur la page de connexion:
 
 &nbsp;
 
-
 ## Première connexion
 
 Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre première connexion à :
@@ -296,10 +295,17 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 
 ## Voir la géolocalisation de mes mesures
 
-L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
+L'onglet « Vue carte » permet de géolocaliser les mesures en cours.
 
-![mesure-localiser](/static/images/individuels/mesure-localiser.png)
+![geolocalisation1](/static/images/individuels/geolocalisation1.png)
   
+Cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
+- Lorsque vous cliquez sur l'indicateur bleu de localisation géographique, la liste des mesures en cours situées à cet endroit apparaît. Les informations suivantes s'affichent : 
+  - Le type de mesure 
+  - La date de naissance du majeur
+- Cliquez sur les symboles “+” ou/et “-” situés à gauche de l'écran afin de zoomer ou dézoomer sur la carte.
+
+![geolocalisation2](/static/images/individuels/geolocalisation2.png)
 
 &nbsp;
 
