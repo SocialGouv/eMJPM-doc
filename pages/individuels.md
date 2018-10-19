@@ -267,6 +267,33 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 
 &nbsp;
 
+## Consulter et/ou réactiver une mesure éteinte
+
+### Consulter une mesure éteinte
+Vous trouverez dans l'onglet “Mesures éteintes” la liste de l'ensemble de vos mesures éteintes. 
+Les informations suivantes sont listées :
+- Date de décision
+- Résidence du majeur 
+- Type de mesure
+- Le genre du majeur 
+- La date de naissance du majeur 
+- La date d'extinction de la mesure
+
+### Réactiver une mesure éteinte
+
+Dans l'onglet “Mesures éteintes” 
+- Cliquez sur le bouton "Réactiver la mesure".
+
+![mettrefinaumesure3.png](/static/images/individuels/mettrefinaumesure3.png)
+
+La mesure nouvellement réactivée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours.
+
+Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
+
+![consulteretvaliderunemesure3.png](/static/images/individuels/consulteretvaliderunemesure3.png)
+
+&nbsp;
+
 ## Voir la géolocalisation de mes mesures
 
 L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
