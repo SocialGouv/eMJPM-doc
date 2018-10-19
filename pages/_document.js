@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
     return <html>
         <Head>
           <title>Documentation</title>
-          <style>{`body,  ul > li > p { margin: 0 } /* custom! */`}</style>
+          <style>{`body,  ul li p { margin: 0 } /* custom! */`}</style>
           <link rel="stylesheet" href="/_next/static/style.css" />
           <link href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css" rel="stylesheet" />
         </Head>
