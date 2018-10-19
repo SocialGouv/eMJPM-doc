@@ -16,7 +16,7 @@ Pour vous créer un compte:
 
 - Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
 
-![Inscription](/static/images//individuels/Inscription.png)
+<img src="/static/images/individuels/Inscription.png" alt="Inscription.png"width="100%" >
 
 - Sélectionnez les tribunaux où vous êtes agréé.
 
@@ -38,7 +38,7 @@ Votre mot de passe doit être composé de 10 caractères minimum.
     
 Les champs possédant une astérisque sont obligatoires.
 
-![Inscription2](/static/images//individuels/Inscription2.png)
+![Inscription2](/static/images/individuels/Inscription2.png)
 
 ## Se connecter / se déconnecter
 
@@ -47,7 +47,7 @@ Les champs possédant une astérisque sont obligatoires.
 Pour vous connecter:
 - Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
-![seconnecter1](/static/images//individuels/seconnecter1.png)
+![seconnecter1](/static/images/individuels/seconnecter1.png)
 
 Une fois sur la page de connexion:
 - Indiquez votre identifiant ainsi que votre mot de passe.
@@ -56,7 +56,7 @@ Une fois sur la page de connexion:
 **Attention:**
  Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et de votre mot de passe.
 
-![seconnecter2](/static/images//individuels/seconnecter2.png)
+![seconnecter2](/static/images/individuels/seconnecter2.png)
 
 [Contactez-nous] en cas de difficulté de connexion.(contact@emjpm.beta.gouv.fr).
 
