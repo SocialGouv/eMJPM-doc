@@ -38,7 +38,7 @@ Votre mot de passe doit être composé de 10 caractères minimum.
     
 Les champs possédant une astérisque sont obligatoires.
 
-<p align=center>
+<p align="center">
   <img src="/static/images/individuels/Inscription2.png" alt="comment s'inscrire etape 2" />
 </p>
 
