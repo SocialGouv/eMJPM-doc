@@ -19,23 +19,20 @@ Pour vous créer un compte:
 <img src="/static/images/individuels/Inscription.png" alt="comment s'inscrire etape 1" width="100%" />
 
 - Sélectionnez les tribunaux où vous êtes agréé.
- 
+
     *Ex : 	Hauts-de-France*
-    
+
     *Tribunal d'Instance de Calais*
 
 - Puis dans la section “ Vous êtes un mandataire :” cochez la case “Individuel”.
-
 - Remplissez ensuite les champs demandés concernant vos informations personnelles. 
     - Identifiant désiré
     - Mot de passe désiré
     - Nom, prénom, adresse, numéro de téléphone, adresse email
-
 - Une fois toutes les informations rentrées et vérifiées, cliquez sur “Créer mon compte”.
 
 **Attention:** 
 Votre mot de passe doit être composé de 10 caractères minimum.
-    
 Les champs possédant une astérisque sont obligatoires.
 
 <p align="center">
@@ -62,7 +59,6 @@ Une fois sur la page de connexion:
 
 <img src="/static/images/individuels/seconnecter2.png" alt="comment se connecter etape 2" width="100%" />
 
-
 ### Se deconnecter
 - Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
 
@@ -80,8 +76,7 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre pre
 - Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
 -   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
-**Attention:** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et des fermetures des mesures suivies.
-Les champs possédant une astérisque sont obligatoires.
+**Attention:** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et des fermetures des mesures suivies. Les champs possédant une astérisque sont obligatoires.
 
 **1ere étape : complétez vos informations** 
 
@@ -89,7 +84,6 @@ Les champs possédant une astérisque sont obligatoires.
 - Puis cliquez sur le bouton "Modifier mon profil" en bas de l'écran pour ajouter vos informations.
 
 ![mettreajourmesinfos1](/static/images/individuels/mettreajourmesinfos1.png)
-
 
 Dans la fenêtre qui apparaît:
 - Complétez vos informations.
@@ -106,7 +100,6 @@ Dans la fenêtre qui apparaît:
 **2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
 Dans l'onglet "Mes informations" :
-
 - Dans le champs “Tribunaux d'Instance ou je suis agrée”, saisissez les premières lettres du Tribunal d'Instance.
 - Puis sélectionnez le Tribunal d'Instance dans la liste des TI proposés.
 - Répétez l'opération si vous êtes agréé dans plusieurs TI.
@@ -124,9 +117,7 @@ Pour saisir vos mesures en cours, suivez les indications listées dans la sectio
 
 ## Mettre à jour mes informations
 
-**Attention :**
-
- Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et fermetures des mesures suivies.
+**Attention :** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et fermetures des mesures suivies.
 
 ### Modifiez vos informations personnelles
 
@@ -160,7 +151,7 @@ Dans l'onglet "Mes informations" :
 
 ## Enregistrer mes mesures / rajouter une nouvelle mesure
 
-###  Enregistrer mes mesures
+### Enregistrer mes mesures
 
 Dans l'onglet "Mesures en cours" :
 - Cliquez sur le bouton "Créer une nouvelle mesure" à gauche de l'écran.
@@ -189,7 +180,7 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 
 ![enregistrermesmesures3.png](/static/images/individuels/enregistrermesmesures3.png)
 
-###  Rajouter une nouvelle mesure
+### Rajouter une nouvelle mesure
 
 Le procédé est exactement le même que celui listé ci-dessus pour enregistrer une mesure. 
 
@@ -224,7 +215,7 @@ Dans l'onglet "Mesures en cours" :
 - Cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée. 
 
 ![mettrefinaumesure1.png](/static/images/individuels/mettrefinaumesure1.png)
-  
+
 Dans la fenêtre qui apparaît:
 - Rentrez la date de fin de mandat.
 - Puis cliquez sur “Eteindre la mesure”.
@@ -246,7 +237,6 @@ Lorsque le juge prend la décision de vous assigner une mesure, celle-ci appara�
 ![consulteretvaliderunemesure1.png](/static/images/individuels/consulteretvaliderunemesure1.png)
 
 Les informations suivantes sont listées au sujet de la mesure en attente : 
-
   - Date de demande
   - Tribunal d'Instance de provenance 
   - Le type de mesure
@@ -298,7 +288,7 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 L'onglet « Vue carte » permet de géolocaliser les mesures en cours.
 
 ![geolocalisation1](/static/images/individuels/geolocalisation1.png)
-  
+
 Cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
 - Lorsque vous cliquez sur l'indicateur bleu de localisation géographique, la liste des mesures en cours situées à cet endroit apparaît. Les informations suivantes s'affichent : 
   - Le type de mesure 
