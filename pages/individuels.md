@@ -99,7 +99,7 @@ Dans la fenêtre qui apparaît:
   - Nom, prénom, genre
   - Adresse, téléphone, email
   - Le nombre de mesures souhaitées
-  Le cas échéant, le nombre d'ETP de secrétariat
+  - Le cas échéant, le nombre d'ETP de secrétariat
 - Puis cliquez sur le bouton "Valider".  
 
 **Attention:** Les champs possédant une astérisque sont obligatoires.
