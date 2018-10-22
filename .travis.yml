@@ -26,3 +26,6 @@ deploy:
   target-branch: gh-pages
   on:
     branch: master
+
+notifications:
+    slack: incubateur-mas:hmWaMIMmPXfMzUNG2UaSB4wh
