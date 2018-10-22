@@ -48,7 +48,8 @@ Les champs possédant une astérisque sont obligatoires.
 ### Se connecter
 
 Pour vous connecter:
-- Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
+- Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/)
+- Puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
 <p align="center">
 <img src="/static/images/individuels/seconnecter1.png" alt="comment se connecter etape 1" width="50%" />
