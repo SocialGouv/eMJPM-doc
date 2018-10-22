@@ -16,7 +16,9 @@ Pour vous créer un compte:
 
 - Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
 
+<p align="center">
 <img src="/static/images/individuels/Inscription.png" alt="comment s'inscrire etape 1" width="50%" />
+</p>
 
 - Sélectionnez les tribunaux où vous êtes agréé.
 
