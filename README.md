@@ -1,4 +1,6 @@
-# emjpm-doc [![Build Status](https://travis-ci.com/SocialGouv/eMJPM-doc.svg?branch=master)](https://travis-ci.com/SocialGouv/eMJPM-doc)
+# emjpm-doc
+ 
+ [![Build Status](https://travis-ci.com/SocialGouv/eMJPM-doc.svg?branch=master)](https://travis-ci.com/SocialGouv/eMJPM-doc)
 
 :warning: Les modifications de la branche `master` sont déployées automatiquement sur https://emjpm-doc.num.social.gouv.fr
 
