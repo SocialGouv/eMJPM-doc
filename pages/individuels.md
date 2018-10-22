@@ -173,7 +173,7 @@ Dans l'onglet "Mesures en cours" :
   - Le code postal et la commune de lieu de vie du majeur
   - Le genre du majeur
   - L'année de naissance du majeur
-  - Précisez si le majeur vit à domicile ou en établissement
+  - Précisez si le majeur vit à domicile ou en établissement.
 Si le majeur vit en établissement, merci de préciser le nom de l'établissement. 
 Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
 - Validez la mesure en cliquant sur le bouton "Enregistrer la mesure".
@@ -199,7 +199,7 @@ Le procédé est exactement le même que celui listé ci-dessus pour enregistrer
 
 Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure) :
 - Cliquez sur l'onglet "Mesures en cours".
-- Puis cliquez sur le bouton « Modifier » correspondant à la mesure concernée
+- Puis cliquez sur le bouton « Modifier » correspondant à la mesure concernée.
 
 ![modifierunemesure1.png](/static/images/individuels/modifierunemesure1.png)
 
