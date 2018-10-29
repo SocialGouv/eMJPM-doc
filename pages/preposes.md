@@ -45,17 +45,33 @@ Les champs possédant une astérisque sont obligatoires.
 
 ## Se connecter
 
-Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
+Pour vous connecter:
+- Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/)
+- Puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
-![homepage](/static/images/homepage.png)
+<p align="center">
+<img src="/static/images/individuels/seconnecter1.png" alt="comment se connecter etape 1" width="50%" />
+</p>
 
+Une fois sur la page de connexion:
+- Indiquez votre identifiant ainsi que votre mot de passe.
+- Cliquez sur le bouton "Me connecter".
 
-Sur la page de connexion, indiquez l’identifiant et mot de passe qui vous ont été communiqués par mail. Puis cliquez sur le bouton "Me connecter". Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et votre mot de passe.
+**Attention:**
+ Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et de votre mot de passe.
 
-![login](/static/images/login.png)
+<p align="center">
+<img src="/static/images/individuels/seconnecter2.png" alt="comment se connecter etape 2" width="50%" />
+</p>
 
+### Se deconnecter
+- Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
 
-Vous n'avez pas reçu vos identifiants ? [Contactez-nous](contact@emjpm.beta.gouv.fr).
+<p align="center">
+<img src="/static/images/individuels/sedeconnecter.png" alt="comment se deconnecter" width="50%" />
+</p>
+
+&nbsp;
 
 ## Première connexion
 
