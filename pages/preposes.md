@@ -117,10 +117,11 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous êtes agréé dans plusieurs TI.
 - Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
 
+<p align="center">
 <img src="/static/images/preposes/premiereconnexion4.png" alt="premiere connexion 4" width="50%" />
 </p>
 
-**3eme étape : complétez le ou les établissements sur le(s)quel(s) vous exercez** 
+**3eme étape : complétez le ou les établissements où vous exercez** 
 
 Dans l'onglet "Mes informations" :
 - Dans le champs “Mes établissements”, saisissez les premières lettres de l'établissement souhaité.
@@ -128,6 +129,7 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous exercez dans plusieurs établissements.
 - Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
 
+<p align="center">
 <img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
 </p>
 
@@ -136,6 +138,57 @@ Dans l'onglet "Mes informations" :
 Dès votre première connexion, nous vous invitons à enregistrer **toutes vos mesures en cours**. Rassurez vous, cette étape n'est à faire qu'une fois. Par la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
 Pour saisir vos mesures en cours, suivez les indications listées dans la section Enregistrer mes mesures / rajouter une nouvelle mesure.
+
+&nbsp;
+
+## Mettre à jour mes informations
+
+**Attention :** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et fermetures des mesures suivies.
+
+### Modifiez vos informations personnelles
+
+- Cliquez sur l'onglet "Mes informations".
+- Cliquez sur le bouton "Modifier mon profil" en bas de l'écran.
+
+<p align="center">
+<img src="/static/images/preposes/mettreajourmesinfos1.png" alt="comment mettre a jour mes informations 1" width="50%" />
+</p>
+
+Dans la fenêtre qui apparaît:
+- Changez les informations souhaitées.
+  - Nom, prénom, genre
+  - Adresse, téléphone, email
+  - Le nombre de mesures souhaité
+  - Le cas échéant, le nombre d'ETP de secrétariat
+- Puis cliquez sur le bouton "Valider".
+
+<p align="center">
+<img src="/static/images/preposes/mettreajourmesinfos2.png" alt="comment mettre a jour mes informations 2" width="50%" />
+</p>
+
+### Modifier le ou les TI sur le(s)quel(s) vous êtes agréé
+
+Dans l'onglet "Mes informations" :
+- Dans le champs “Tribunaux d'Instance ou je suis agrée”, saisissez les premières lettres du Tribunal d'Instance.
+- Puis sélectionnez le Tribunal d'Instance dans la liste des TI proposés.
+- Répétez l'opération si vous êtes agréé dans plusieurs TI.
+- Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
+
+<p align="center">
+<img src="/static/images/preposes/mettreajourmesinfos4.png" alt="comment mettre a jour mes informations 4" width="50%" />
+</p>
+
+### Modifier le ou les établissements où vous exercez 
+
+Dans l'onglet "Mes informations" :
+- Dans le champs “Mes établissements”, saisissez les premières lettres de l'établissement souhaité.
+- Puis sélectionnez l'établissement dans la liste proposée.
+- Répétez l'opération si vous exercez dans plusieurs établissements.
+- Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
+
+<p align="center">
+<img src="/static/images/preposes/mettreajourmesinfos3.png" alt="comment mettre a jour mes informations 3" width="50%" />
+</p>
 
 ## Enregistrer vos mesures
 
