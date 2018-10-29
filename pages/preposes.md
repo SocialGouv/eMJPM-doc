@@ -75,26 +75,39 @@ Une fois sur la page de connexion:
 
 ## Première connexion
 
-Pour simplifier vos échanges avec les juges, nous vous invitons, **dès votre première connexion** à compléter vos informations, les tribunaux d'instance où vous êtes agréé, le ou les établissement(s) dans le(s)quel(s) vous exercez et saisir vos mesures en cours.
+Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre première connexion à :
+- Compléter et mettre à jour la section “Mes informations”.
+  - Mes coordonnées
+  - Le nombre de mesures souhaitées
+  - Si je dispose d'un secrétariat
+- Compléter le ou les Tribunaux d'Instance sur le(s)quels vous êtes agréé dans la section “Mes informations”.
+- Compléter le ou les établissements sur le(s)quels vous êtes agréé dans la section “Mes informations”.
+-   Saisir vos mesures en cours dans la section “Mesures en cours”.
 
-Les informations enregistrées seront accessibles aux magistrats et doivent être **actualisées régulièrement** en fonction des ouvertures et fermetures des mesures suivies.
+**Attention:** Les informations et coordonnées enregistrées seront accessibles aux magistrats et doivent être actualisées régulièrement en fonction des changements, des ouvertures et des fermetures des mesures suivies. Les champs possédant une astérisque sont obligatoires.
 
 **1ere étape : complétez vos informations**
 
-Cliquez sur l'onglet "Mes informations", puis cliquez sur le bouton "Modifier mes informations" en bas de l'écran.
+- Cliquez sur l'onglet "Mes informations".
+- Puis cliquez sur le bouton "Modifier mon profil" en bas de l'écran pour ajouter vos informations.
 
-![mes-informations](/static/images/individuels/mes-informations.png)
+<p align="center">
+<img src="/static/images/preposes/premiereconnexion1.png" alt="premiere connexion 1" width="50%" />
+</p>
 
-Dans la fenêtre, complétez vos informations :
+Dans la fenêtre qui apparaît:
+- Complétez vos informations.
+  - Nom, prénom, genre
+  - Adresse, téléphone, email
+  - Le nombre de mesures souhaitées
+  - Le cas échéant, le nombre d'ETP de secrétariat
+- Puis cliquez sur le bouton "Valider".  
 
- - Nom, adresse, téléphone, mail
- - Le nombre de mesures souhaité
- - Le cas échéant, le nombre d'ETP de secrétariat
- 
-Puis cliquez sur le bouton "Enregistrer".
- 
-![mes-informations-modale](/static/images/individuels/mes-informations-modale.png)
+**Attention:** Les champs possédant une astérisque sont obligatoires.
 
+<p align="center">
+<img src="/static/images/preposes/premiereconnexion2.png" alt="premiere connexion 2" width="50%" />
+</p>
 
 **2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
