@@ -10,10 +10,10 @@ title: documentation Services
 
 ## Consultez la documentation utile selon votre profil
 
- - [Je suis un mandataire individuel](/individuels)
- - [Je suis un mandataire préposé](/preposes)
- - [Je suis un service MJPM](/services)
- - [Je suis un magistrat](/magistrats)
+ - [Je suis un mandataire individuel](./individuels)
+ - [Je suis un mandataire préposé](./preposes)
+ - [Je suis un service MJPM](./services)
+ - [Je suis un magistrat](./magistrats)
 
 ## Pour utiliser e-MJPM
 
