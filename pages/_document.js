@@ -14,6 +14,18 @@ export default class MyDocument extends Document {
         <Head>
           <title>Documentation</title>
           <style>{`body,  ul li p { margin: 0 } /* custom! */`}</style>
+          <style global jsx>{`
+            body,
+            ul li p {
+              margin: 0;
+            }
+
+            .panel img {
+              width: 75%;
+              display: block;
+              margin: auto;
+            }
+          `}</style>
           <base href={BASE_HREF} />
           <link rel="stylesheet" href={BASE_HREF + "/_next/static/style.css"} />
           <link
