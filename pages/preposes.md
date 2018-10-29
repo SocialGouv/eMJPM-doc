@@ -290,6 +290,38 @@ La mesure apparaît alors dans l'onglet "Mesures éteintes".
 
 &nbsp;
 
+## Consulter et valider une mesure en attente
+
+Lorsque le juge prend la décision de vous assigner une mesure, celle-ci apparaît dans l'onglet "Mesure en attente".
+
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure1.png" alt="comment consulter et valider une mesure 1" width="50%" />
+</p>
+
+Les informations suivantes sont listées au sujet de la mesure en attente : 
+  - Date de demande
+  - Tribunal d'Instance de provenance 
+  - Le type de mesure
+  - Le genre du majeur à protéger
+  - La date de naissance du majeur à protéger
+- Cliquez sur le bouton “Valider” une fois le document (papier) reçu afin de transformer cette mesure en attente en mesure en cours. 
+
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure2.png" alt="comment consulter et valider une mesure 2" width="50%" />
+</p>
+
+La mesure nouvellement attribuée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours .  
+
+Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
+
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure3.png" alt="comment consulter et valider une mesure 3" width="50%" />
+</p>
+
+**Attention:** Les juges ayant accès au nombres de mesures en attentes attribuées, merci de bien vouloir valider très régulièrement vos mesures en attentes une fois le document reçu afin de les basculer en mesures en cours. 
+
+&nbsp;
+
 ## Voir la géolocalisation de mes mesures
 
 L'onglet « Vue carte » permet de géolocaliser les mesures en cours – cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
