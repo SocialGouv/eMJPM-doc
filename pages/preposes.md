@@ -13,7 +13,6 @@ title: Documentation pour les MJPM Préposés
 ## S'inscrire
 
 Pour vous créer un compte:
-
 - Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
 
 <p align="center">
@@ -192,61 +191,104 @@ Dans l'onglet "Mes informations" :
 <img src="/static/images/preposes/mettreajourmesinfos3.png" alt="comment mettre a jour mes informations 3" width="50%" />
 </p>
 
-## Enregistrer vos mesures
+&nbsp;
 
-Dans l'onglet "Mesures en cours", cliquer sur le bouton "enregistrer une nouvelle mesure" en haut de l'écran.
+## Enregistrer mes mesures / rajouter une nouvelle mesure
 
-![mesure-ajout](/static/images/individuels/mesure-ajout.png)
+### Enregistrer mes mesures
 
-Completez pour chaque mesure :
- - la date de décision de la mesure
- - le type de mesure 
- - le code postal et la commune de lieu de vie du majeur
- - le genre du majeur
- - l'année de naissance du majeur
- - préciser si le majeur vit à domicile ou en établissement
+Dans l'onglet "Mesures en cours" :
+- Cliquez sur le bouton "Créer une nouvelle mesure" à gauche de l'écran.
 
-Si le majeur vit en établissement, précisez le nom de l'établissement. Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
+<p align="center">
+<img src="/static/images/individuels/enregistrermesmesures1.png" alt="comment enregistrer mes mesures 1" width="50%" />
+</p>
 
-Validez enfin la mesure en cliquant sur le bouton "Valider".
+- Complétez pour chaque mesure :
+  - La date de décision de la mesure
+  - Le type de mesure
+  - Le code postal et la commune de lieu de vie du majeur
+  - Le genre du majeur
+  - L'année de naissance du majeur
+  - Précisez si le majeur vit à domicile ou en établissement.
+Si le majeur vit en établissement, merci de préciser le nom de l'établissement. 
+Saisissez les premières lettres du nom de l'établissement, des propositions apparaîtront, puis cliquez sur le nom de l'établissement.
+- Validez la mesure en cliquant sur le bouton "Enregistrer la mesure".
+- Si vous ne désirez pas enregistrer la mesure, cliquez sur le bouton “ Annuler”.
 
-![mesure-modale](/static/images/individuels/mesure-modale.png)
+<p align="center">
+<img src="/static/images/individuels/enregistrermesmesures2.png" alt="comment enregistrer mes mesures 2" width="50%" />
+</p>
 
+La mesure nouvellement saisie apparaît alors dans le tableau listant les mesures en cours. 
 
-La mesure nouvellement saisie apparaît alors dans la liste des mesures en cours. Le nombre de mesures suivies affiché dans l'onglet est automatiquement actualisé.
+Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est automatiquement actualisé.
 
-![mesure-valider](/static/images/individuels/mesure-valider.png)
+ **Attention:** Réitérer l'opération plusieurs fois afin de rentrer l'ensemble de vos mesure en cours. 
 
+<p align="center">
+<img src="/static/images/individuels/enregistrermesmesures3.png" alt="comment enregistrer mes mesures 3" width="50%" />
+</p>
 
+### Rajouter une nouvelle mesure
+
+Le procédé est exactement le même que celui listé ci-dessus pour enregistrer une mesure. 
+
+&nbsp;
 
 ## Modifier une mesure en cours
 
-Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure), cliquez sur l'onglet "Mesures en cours", puis sur le bouton « Modifier » correspondant à la mesure concernée.
+Si vous devez modifier une mesure (par exemple, changement de lieu de vie du majeur ou de la nature de la mesure) :
+- Cliquez sur l'onglet "Mesures en cours".
+- Puis cliquez sur le bouton « Modifier » correspondant à la mesure concernée.
 
-![mesure-modifier](/static/images/individuels/mesure-modifier.png)
+<p align="center">
+<img src="/static/images/individuels/modifierunemesure1.png" alt="comment modifier une mesure 1" width="50%" />
+</p>
 
+Dans la fenêtre qui apparaît:
+- Modifiez les données souhaitées.
+  - Date d'ouverture de la mesure
+  - Type de mesure
+  - Résidence du majeur à protéger
+  - Genre
+  - Année de naissance du majeur à protéger
+- Puis cliquez sur le bouton "Valider".
 
-Modifiez ensuite les données et cliquez sur le bouton "Valider".
+**Attention:** Les champs possédant une astérisque sont obligatoires.
 
-![mesure-modifier-modale](/static/images/individuels/mesure-modifier-modale.png)
-
+<p align="center">
+<img src="/static/images/individuels/modifierunemesure2.png" alt="comment modifier une mesure 2" width="50%" />
+</p>
+  
+&nbsp;
 
 ## Mettre fin à une mesure en cours
 
-Dans l'onglet "Mesures en cours", cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée.
+Dans l'onglet "Mesures en cours" :
+- Cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée. 
 
-![mesure-fin-mandat](/static/images/individuels/mesure-fin-mandat.png)
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure1.png" alt="comment mettre fin au mesures 1" width="50%" />
+</p>
 
+Dans la fenêtre qui apparaît:
+- Rentrez la date de fin de mandat.
+- Puis cliquez sur “Eteindre la mesure”.
 
-Complétez la date de fin de mandat et cliquez sur le bouton « Eteindre la mesure ».
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure2.png" alt="comment mettre fin au mesures 2" width="50%" />
+</p>
 
-![mesure-eteindre](/static/images/individuels/mesure-eteindre.png)
+La mesure apparaît alors dans l'onglet "Mesures éteintes". 
 
+**Attention:** Vous avez toujours la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure" qui se situe dans l'onglet “Mesures éteintes”.
 
-La mesure apparaît alors dans l'onglet "Mesures éteintes". Mais vous avez la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure".
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure3.png" alt="comment mettre fin au mesures 3" width="50%" />
+</p>
 
-![mesure-reactiver](/static/images/individuels/mesure-reactiver.png)
-
+&nbsp;
 
 ## Voir la géolocalisation de mes mesures
 
