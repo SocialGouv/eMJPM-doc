@@ -245,19 +245,25 @@ Dans la fenêtre qui apparaît:
 Dans l'onglet "Mesures en cours" :
 - Cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée. 
 
-![mettrefinaumesure1.png](/static/images/individuels/mettrefinaumesure1.png)
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure1.png" alt="comment mettre fin au mesures 1" width="50%" />
+</p>
 
 Dans la fenêtre qui apparaît:
 - Rentrez la date de fin de mandat.
 - Puis cliquez sur “Eteindre la mesure”.
 
-![mettrefinaumesure2.png](/static/images/individuels/mettrefinaumesure2.png)
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure2.png" alt="comment mettre fin au mesures 2" width="50%" />
+</p>
 
 La mesure apparaît alors dans l'onglet "Mesures éteintes". 
 
 **Attention:** Vous avez toujours la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure" qui se situe dans l'onglet “Mesures éteintes”.
 
-![mettrefinaumesure3.png](/static/images/individuels/mettrefinaumesure3.png)
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure3.png" alt="comment mettre fin au mesures 3" width="50%" />
+</p>
 
 &nbsp;
 
@@ -265,7 +271,9 @@ La mesure apparaît alors dans l'onglet "Mesures éteintes".
 
 Lorsque le juge prend la décision de vous assigner une mesure, celle-ci apparaît dans l'onglet "Mesure en attente".
 
-![consulteretvaliderunemesure1.png](/static/images/individuels/consulteretvaliderunemesure1.png)
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure1.png" alt="comment consulter et valider une mesure 1" width="50%" />
+</p>
 
 Les informations suivantes sont listées au sujet de la mesure en attente : 
   - Date de demande
@@ -275,13 +283,17 @@ Les informations suivantes sont listées au sujet de la mesure en attente :
   - La date de naissance du majeur à protéger
 - Cliquez sur le bouton “Valider” une fois le document (papier) reçu afin de transformer cette mesure en attente en mesure en cours. 
 
-![consulteretvaliderunemesure2.png](/static/images/individuels/consulteretvaliderunemesure2.png)
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure2.png" alt="comment consulter et valider une mesure 2" width="50%" />
+</p>
 
 La mesure nouvellement attribuée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours .  
 
 Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
 
-![consulteretvaliderunemesure3.png](/static/images/individuels/consulteretvaliderunemesure3.png)
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure3.png" alt="comment consulter et valider une mesure 3" width="50%" />
+</p>
 
 **Attention:** Les juges ayant accès au nombres de mesures en attentes attribuées, merci de bien vouloir valider très régulièrement vos mesures en attentes une fois le document reçu afin de les basculer en mesures en cours. 
 
@@ -304,13 +316,17 @@ Les informations suivantes sont listées :
 Dans l'onglet “Mesures éteintes” 
 - Cliquez sur le bouton "Réactiver la mesure".
 
-![mettrefinaumesure3.png](/static/images/individuels/mettrefinaumesure3.png)
+<p align="center">
+<img src="/static/images/individuels/mettrefinaumesure3.png" alt="comment mettre fin au mesures 3" width="50%" />
+</p>
 
 La mesure nouvellement réactivée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours.
 
 Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
 
-![consulteretvaliderunemesure3.png](/static/images/individuels/consulteretvaliderunemesure3.png)
+<p align="center">
+<img src="/static/images/individuels/consulteretvaliderunemesure3.png" alt="comment consulter et valider une mesure 3" width="50%" />
+</p>
 
 &nbsp;
 
