@@ -43,7 +43,9 @@ Les champs possédant une astérisque sont obligatoires.
 
 &nbsp;
 
-## Se connecter
+## Se connecter / se deconnecter
+
+### Se connecter
 
 Pour vous connecter:
 - Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/)
