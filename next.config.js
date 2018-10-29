@@ -6,7 +6,8 @@ const remark = {
   frontmatter: require("remark-frontmatter"),
   emoji: require("remark-emoji"),
   slug: require("remark-slug"),
-  autolinkHeadings: require("remark-autolink-headings")
+  autolinkHeadings: require("remark-autolink-headings"),
+  imagesSrc: remarkImagesSrc
 };
 
 const withMDX = require("@zeit/next-mdx")({
@@ -17,7 +18,8 @@ const withMDX = require("@zeit/next-mdx")({
       remark.frontmatter,
       remark.emoji,
       remark.autolinkHeadings,
-      remark.slug
+      remark.slug,
+      remark.imagesSrc
     ],
     heading: "Sommaire",
     type: "yaml",
@@ -31,3 +33,30 @@ module.exports = withMDX(
     pageExtensions: ["js", "md", "mdx"]
   })
 );
+
+//
+
+function remarkImagesSrc() {
+  return remarkImagesSrcTransformer;
+}
+
+function remarkImagesSrcTransformer(tree, file, done) {
+  const visit = require("unist-util-visit");
+  const { BASE_HREF } = process.env;
+
+  if (!BASE_HREF) {
+    done();
+    return;
+  }
+
+  visit(tree, "image", visitor);
+  done();
+
+  function visitor(node) {
+    var url = node.url;
+
+    if (url && url.startsWith("/static/")) {
+      node.url = BASE_HREF + node.url;
+    }
+  }
+}

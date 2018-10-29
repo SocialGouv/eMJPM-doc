@@ -1,5 +1,7 @@
 import Document, { Head, Main, NextScript } from "next/document";
 
+const { BASE_HREF } = process.env;
+
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx);
@@ -7,18 +9,23 @@ export default class MyDocument extends Document {
   }
 
   render() {
-    return <html>
+    return (
+      <html>
         <Head>
           <title>Documentation</title>
           <style>{`body,  ul li p { margin: 0 } /* custom! */`}</style>
-          <base href={process.env.BASE_HREF} />
-          <link rel="stylesheet" href="/_next/static/style.css" />
-          <link href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css" rel="stylesheet" />
+          <base href={BASE_HREF} />
+          <link rel="stylesheet" href={BASE_HREF + "/_next/static/style.css"} />
+          <link
+            href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css"
+            rel="stylesheet"
+          />
         </Head>
         <body className="custom_class">
           <Main />
           <NextScript />
         </body>
-      </html>;
+      </html>
+    );
   }
 }
