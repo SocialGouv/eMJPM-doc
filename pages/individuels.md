@@ -33,7 +33,9 @@ Pour vous créer un compte:
 Votre mot de passe doit être composé de 10 caractères minimum.
 Les champs possédant une astérisque sont obligatoires.
 
-![comment s'inscrire etape 2](/static/images/individuels/Inscription2.png)
+<p align="center">
+<img src={ (process.env.BASE_HREF || "") + "/static/images/individuels/Inscription2.png"} alt="comment s'inscrire etape 2" style={{width: "50%"}}/>
+</p>
 
 &nbsp;
 
