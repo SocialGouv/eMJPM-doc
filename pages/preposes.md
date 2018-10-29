@@ -15,6 +15,11 @@ title: Documentation pour les MJPM Préposés
 Pour vous créer un compte:
 
 - Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
+
+<p align="center">
+<img src="/static/images/individuels/Inscription.png" alt="comment s'inscrire etape 1" width="50%" />
+</p>
+
 - Sélectionnez les tribunaux où vous êtes agréé.
 
     *Ex : 	Hauts-de-France*
@@ -31,6 +36,10 @@ Pour vous créer un compte:
 **Attention:** 
 Votre mot de passe doit être composé de 10 caractères minimum.
 Les champs possédant une astérisque sont obligatoires.
+
+<p align="center">
+<img src="/static/images/preposes/Inscription1.png" alt="comment s'inscrire etape 1" width="50%" />
+</p>
 
 &nbsp;
 
