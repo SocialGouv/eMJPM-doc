@@ -27,7 +27,6 @@ export default class MyDocument extends Document {
             }
           `}</style>
           <base href={BASE_HREF} />
-          <link rel="stylesheet" href={BASE_HREF + "/_next/static/style.css"} />
           <link
             href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css"
             rel="stylesheet"
