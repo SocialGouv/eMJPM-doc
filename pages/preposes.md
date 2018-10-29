@@ -120,6 +120,17 @@ Dans l'onglet "Mes informations" :
 <img src="/static/images/preposes/premiereconnexion4.png" alt="premiere connexion 4" width="50%" />
 </p>
 
+**3eme étape : complétez le ou les établissements sur le(s)quel(s) vous êtes agréé** 
+
+Dans l'onglet "Mes informations" :
+- Dans le champs “Mes établissements”, saisissez les premières lettres de l'établissement souhaité.
+- Puis sélectionnez l'établissement dans la liste proposée.
+- Répétez l'opération si vous êtes agréé dans plusieurs établissements.
+- Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
+
+<img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
+</p>
+
 **3eme étape : Saisissez le ou les établissement(s) dans le(s)quel(s) vous exercez**
 
 Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un établissement".
