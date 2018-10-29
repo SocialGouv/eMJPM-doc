@@ -111,13 +111,14 @@ Dans la fenêtre qui apparaît:
 
 **2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
-Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un nouveau TI" en haut de l'écran. 
+Dans l'onglet "Mes informations" :
+- Dans le champs “Tribunaux d'Instance ou je suis agrée”, saisissez les premières lettres du Tribunal d'Instance.
+- Puis sélectionnez le Tribunal d'Instance dans la liste des TI proposés.
+- Répétez l'opération si vous êtes agréé dans plusieurs TI.
+- Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
 
-![mes-informations-ti](/static/images/individuels/mes-informations-ti.png)
-
-Saisissez les premières lettres du TI, sélectionnez le dans la liste des TI proposés puis cliquez sur le bouton "Valider". Répétez l'opération si vous êtes agréé dans plusieurs TI.
-
-![mes-informations-ti-saisie](/static/images/individuels/mes-informations-ti-saisie.png)
+<img src="/static/images/preposes/premiereconnexion4.png" alt="premiere connexion 4" width="50%" />
+</p>
 
 **3eme étape : Saisissez le ou les établissement(s) dans le(s)quel(s) vous exercez**
 
