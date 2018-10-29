@@ -2,7 +2,7 @@
   "name": "eMJPM-doc",
   "version": "1.0.0",
   "author": "Julien Bouquillon <julien.bouquillon@sg.social.gouv.fr>",
-  "homepage": "https://emjpm-doc.num.social.gouv.fr",
+  "homepage": "https://SocialGouv.github.io/eMJPM-doc/",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,30 +13,29 @@
     "dev": "next dev",
     "build": "next build && next export"
   },
-  "homepage": "https://SocialGouv.github.io/eMJPM-doc/",
   "bugs": {
     "url": "https://github.com/SocialGouv/eMJPM-doc/issues"
   },
   "devDependencies": {
     "@mdx-js/loader": "^0.15.0-0",
     "@mdx-js/mdx": "^0.15.0-0",
-    "@zeit/next-css": "^0.2.0",
-    "@zeit/next-mdx": "^1.1.0",
-    "next": "^6.1.1"
-  },
-  "dependencies": {
-    "front-matter": "^2.3.0",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "remark": "^9.0.0",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-mdx": "^1.2.0",
+    "next": "^7.0.2",
+    "remark": "^10.0.0",
     "remark-autolink-headings": "^5.0.0",
     "remark-emoji": "^2.0.1",
     "remark-frontmatter": "^1.2.0",
-    "remark-html": "^7.0.0",
+    "remark-html": "^8.0.0",
     "remark-images": "^0.8.1",
-    "remark-parse": "^5.0.0",
+    "remark-parse": "^6.0.0",
     "remark-react": "^4.0.3",
     "remark-slug": "^5.0.0",
     "remark-toc": "^5.0.0"
+  },
+  "dependencies": {
+    "front-matter": "^3.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
   }
 }

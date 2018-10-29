@@ -1,0 +1,26 @@
+dist: trusty
+language: node_js
+sudo: false
+git:
+  depth: 5
+node_js: lts/*
+cache: yarn
+script:
+- NODE_ENV=production yarn build
+- touch out/.nojekyll
+before_deploy:
+- |
+  git config user.name "Deployment Bot (from Travis CI)" &&
+  git config user.email "deploy@travis-ci.org"
+deploy:
+  github-token: "$GITHUB_TOKEN"
+  keep-history: true
+  local_dir: out
+  provider: pages
+  skip_cleanup: true
+  target-branch: gh-pages
+  on:
+    branch: master
+notifications:
+  slack:
+    secure: olWni+dSsbTeNbZz6i9cUlMV6t4JbClgsbUoJ7HJVpmpb1AHJsaKdEn0C6nDtXUGHm6Sb/6Kr6WBypzD4YeF2h59z270MqQxV9gWokSfKPQCbkebbRz4L4Tq5iRIqg6oMcdKmVj41CWWVDSZn4WSN932RKvIIwGm0qOgHBKtTu5uQtIugnS9yympchFJc2jKC5Ej6lFGbmx5Li2qJe2xrv/o6G2YPHyXm00QlFzs3G7H4gEGcKCqhU782uo/lHd8uIc3W9D5IB7YZWp16dT3RkyxxQpD/H1G/dL+33SN01nEhUMLa1fNWPNOeMB3aY3ZfFmQBCXJrRCOODqS+c4OkWdG+XgwFSoa/0lCLoTEG/n3+1wSAKpF8vmVVHuRbNmUiz64MNn5Fyo6TETgNs51aRW0b2OSLmV6d9pqdwjsqwGw7SvU2aqT23euDtQnRb2Pc+o3zw/Z9O3EzSq2J2+Z2e0jPnud4XkdGWbr3bClKqpPfypMNec591g+Vz8+8RaiX3+oXiVz/vBdzyLLB+quWU1T/3evlzWCyFGzm6yXS38nFfWzOgOmqkb3ELnksPs8XFA+TpnDpc3OKiIc2Fi2ME4U0x/u15Bv/0jU6Y7ZsfgA0quI8S5Sr6Mr9t5gNCcbs7Q1h6c647WHNKRBMsN3ou92rFlzTif+XNYLaoxXXEw=
