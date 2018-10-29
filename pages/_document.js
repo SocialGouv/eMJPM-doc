@@ -26,7 +26,6 @@ export default class MyDocument extends Document {
               margin: auto;
             }
           `}</style>
-          <base href={BASE_HREF} />
           <link
             href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css"
             rel="stylesheet"
