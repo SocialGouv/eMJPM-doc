@@ -27,7 +27,7 @@ const withMDX = require("@zeit/next-mdx")({
 
 module.exports = withMDX(
   withCSS({
-    assetPrefix: process.env.ASSET_PREFIX ? process.env.ASSET_PREFIX : "",
+    assetPrefix: process.env.BASE_HREF ? process.env.BASE_HREF : "",
     pageExtensions: ["js", "md", "mdx"]
   })
 );

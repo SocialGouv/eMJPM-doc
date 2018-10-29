@@ -11,6 +11,7 @@ export default class MyDocument extends Document {
         <Head>
           <title>Documentation</title>
           <style>{`body,  ul li p { margin: 0 } /* custom! */`}</style>
+          <base href={process.env.BASE_HREF} />
           <link rel="stylesheet" href="/_next/static/style.css" />
           <link href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css" rel="stylesheet" />
         </Head>
