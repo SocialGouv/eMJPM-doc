@@ -1,6 +1,6 @@
 import Document, { Head, Main, NextScript } from "next/document";
 
-const { BASE_HREF } = process.env;
+const BASE_HREF = process.env.BASE_HREF || "";
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
