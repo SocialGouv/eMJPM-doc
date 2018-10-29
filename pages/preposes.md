@@ -10,6 +10,30 @@ title: Documentation pour les MJPM Préposés
 
 ## Sommaire
 
+## S'inscrire
+
+Pour vous créer un compte:
+
+- Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
+- Sélectionnez les tribunaux où vous êtes agréé.
+
+    *Ex : 	Hauts-de-France*
+
+    *Tribunal d'Instance de Calais*
+- Puis dans la section “ Vous êtes un mandataire :” cochez la case “Préposé”.
+- Remplissez ensuite les champs demandés concernant vos informations personnelles. 
+    - Identifiant désiré
+    - Mot de passe désiré
+    - Nom, prénom, adresse, numéro de téléphone, adresse email
+    - Noms d’établissements
+- Une fois toutes les informations rentrées et vérifiées, cliquez sur “Créer mon compte”.
+
+**Attention:** 
+Votre mot de passe doit être composé de 10 caractères minimum.
+Les champs possédant une astérisque sont obligatoires.
+
+&nbsp;
+
 ## Se connecter
 
 Pour vous connecter, allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/) puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
