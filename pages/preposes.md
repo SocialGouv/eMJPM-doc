@@ -120,34 +120,22 @@ Dans l'onglet "Mes informations" :
 <img src="/static/images/preposes/premiereconnexion4.png" alt="premiere connexion 4" width="50%" />
 </p>
 
-**3eme étape : complétez le ou les établissements sur le(s)quel(s) vous êtes agréé** 
+**3eme étape : complétez le ou les établissements sur le(s)quel(s) vous exercez** 
 
 Dans l'onglet "Mes informations" :
 - Dans le champs “Mes établissements”, saisissez les premières lettres de l'établissement souhaité.
 - Puis sélectionnez l'établissement dans la liste proposée.
-- Répétez l'opération si vous êtes agréé dans plusieurs établissements.
+- Répétez l'opération si vous exercez dans plusieurs établissements.
 - Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
 
 <img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
 </p>
 
-**3eme étape : Saisissez le ou les établissement(s) dans le(s)quel(s) vous exercez**
-
-Dans l'onglet "Mes informations", cliquez sur le bouton "Ajouter un établissement".
-
-![mes-informations-etablissements](/static/images/preposes/mes-informations-etablissements.png)
-
-Sélectionnez ensuite le ou les établissement(s) en inscrivant les 1e lettres du nom puis cliquez sur le bouton "Valider".
-
-![mes-informations-etablissements-choix](/static/images/preposes/mes-informations-etablissements-choix.png)
-
-
 **4eme étape : Saisissez vos mesures en cours** 
 
-Dès votre première connexion, nous vous invitons à enregistrer **toutes** vos mesures en cours. Rassurez vous, cette étape n'est à faire qu'une fois. Pas la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
+Dès votre première connexion, nous vous invitons à enregistrer **toutes vos mesures en cours**. Rassurez vous, cette étape n'est à faire qu'une fois. Par la suite, vous n'aurez plus qu'à saisir vos nouvelles mesures.
 
-Pour saisir vos mesures en cours, suivez les [indications ci-dessous](https://emjpm-doc.num.social.gouv.fr/individuels/#enregistrer-vos-mesures).
-
+Pour saisir vos mesures en cours, suivez les indications listées dans la section Enregistrer mes mesures / rajouter une nouvelle mesure.
 
 ## Enregistrer vos mesures
 
