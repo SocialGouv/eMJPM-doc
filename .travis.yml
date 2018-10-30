@@ -6,7 +6,7 @@ git:
 node_js: lts/*
 cache: yarn
 script:
-- NODE_ENV=production BASE_HREF=https://socialgouv.github.io/eMJPM-doc/ yarn build
+- NODE_ENV=production BASE_HREF=https://socialgouv.github.io/eMJPM-doc yarn build
 - touch out/.nojekyll
 before_deploy:
 - |
