@@ -188,7 +188,7 @@ Dans l'onglet "Mes informations" :
 - Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
 
 <p align="center">
-<img src="/static/images/preposes/mettreajourmesinfos3.png" alt="comment mettre a jour mes informations 3" width="50%" />
+<img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
 </p>
 
 &nbsp;
