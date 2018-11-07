@@ -725,7 +725,7 @@
     "@mdx-js/tag" "^0.16.0"
     loader-utils "^1.1.0"
 
-"@mdx-js/mdx@^0.15.0-0", "@mdx-js/mdx@^0.15.5":
+"@mdx-js/mdx@^0.15.5":
   version "0.15.5"
   resolved "https://registry.npmjs.org/@mdx-js/mdx/-/mdx-0.15.5.tgz#a3821a1e0e460ee993437ef3f922482fb67c31d0"
   integrity sha512-BZQztjePZNLLbtqTdI8ApzUl1I6blY94vCswT/TYvH305Uw86t+p1mzP2R8RNe7SWT3icLkfiwRAIDM9Zp52xw==
