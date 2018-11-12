@@ -4591,6 +4591,27 @@ remark-parse@^6.0.0:
     vfile-location "^2.0.0"
     xtend "^4.0.1"
 
+remark-parse@^6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-6.0.2.tgz#e1e1f987c5a406875757fcb4ebbca86b7c1e110d"
+  integrity sha512-cBbst7OG/pH+VHYggWRabpVn9EP6CUb2hAtSg9cPysRvf+NE1v2cRdXC+TfXumJCar/wpPDK833zPu1fwVanZw==
+  dependencies:
+    collapse-white-space "^1.0.2"
+    is-alphabetical "^1.0.0"
+    is-decimal "^1.0.0"
+    is-whitespace-character "^1.0.0"
+    is-word-character "^1.0.0"
+    markdown-escapes "^1.0.0"
+    parse-entities "^1.1.0"
+    repeat-string "^1.5.4"
+    state-toggle "^1.0.0"
+    trim "0.0.1"
+    trim-trailing-lines "^1.0.0"
+    unherit "^1.0.4"
+    unist-util-remove-position "^1.0.0"
+    vfile-location "^2.0.0"
+    xtend "^4.0.1"
+
 remark-react@^4.0.3:
   version "4.0.3"
   resolved "https://registry.npmjs.org/remark-react/-/remark-react-4.0.3.tgz#980938f3bcc93bef220215b26b0b0a80f3158c7d"
