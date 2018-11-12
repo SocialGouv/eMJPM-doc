@@ -34,7 +34,7 @@
     "remark-toc": "^5.0.0"
   },
   "dependencies": {
-    "front-matter": "^3.0.0",
+    "front-matter": "^3.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   }
