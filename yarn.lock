@@ -3379,10 +3379,10 @@ mdast-util-to-string@^1.0.0, mdast-util-to-string@^1.0.2:
   resolved "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-1.0.5.tgz#3552b05428af22ceda34f156afe62ec8e6d731ca"
   integrity sha512-2qLt/DEOo5F6nc2VFScQiHPzQ0XXcabquRJxKMhKte8nt42o08HUxNDPk7tt0YPxnWjAT11I1SYi0X0iPnfI5A==
 
-mdast-util-toc@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/mdast-util-toc/-/mdast-util-toc-2.1.0.tgz#82b6b218577bb0e67b23abf5c3f7ac73a4b5389f"
-  integrity sha512-ove/QQWSrYOrf9G3xn2MTAjy7PKCtCmm261wpQwecoPAsUtkihkMVczxFqil7VihxgSz4ID9c8bBTsyXR30gQg==
+mdast-util-toc@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-toc/-/mdast-util-toc-3.0.0.tgz#297e2424fe24a11db054fa9ab65d305fdcfae56d"
+  integrity sha512-rdpar0+u7H8RpsxVagGUG11VEaxkWlDefGMarG+6xDurTnkD14DMTDo9FQ1lCC3oElzwF3+EEsfeAd/wHrIjoQ==
   dependencies:
     github-slugger "^1.1.1"
     mdast-util-to-string "^1.0.2"
@@ -4658,12 +4658,12 @@ remark-stringify@^6.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-toc@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/remark-toc/-/remark-toc-5.0.0.tgz#f1e13ed11062ad4d102b02e70168bd85015bf129"
-  integrity sha512-j2A/fpio1nzNRJtY6nVaFUCtXNfFPxaj6I5UHFsFgo4xKmc0VokRRIzGqz4Vfs7u+dPrHjnoHkImu1Dia0jDSQ==
+remark-toc@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.1.0.tgz#77250ac751c47a3d81686033de2f0ae42bc86fb4"
+  integrity sha512-G2qPor2XVn6SgtdoKyD3FhhFuzIOOHK9RYVv2PFwk5PxIsNtxeiIuIy3yjGZvgFzrTXBtqpR+sVf9BC9TWSaHg==
   dependencies:
-    mdast-util-toc "^2.0.0"
+    mdast-util-toc "^3.0.0"
     remark-slug "^5.0.0"
 
 remark@^10.0.0:
