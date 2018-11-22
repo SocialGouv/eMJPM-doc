@@ -4684,10 +4684,10 @@ remark-stringify@^6.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-toc@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.1.0.tgz#77250ac751c47a3d81686033de2f0ae42bc86fb4"
-  integrity sha512-G2qPor2XVn6SgtdoKyD3FhhFuzIOOHK9RYVv2PFwk5PxIsNtxeiIuIy3yjGZvgFzrTXBtqpR+sVf9BC9TWSaHg==
+remark-toc@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.1.1.tgz#8c229d6f834cdb43fde6685e2d43248d3fc82d78"
+  integrity sha512-vCPW4YOsm2CfyuScdktM9KDnJXVHJsd/ZeRtst+dnBU3B3KKvt8bc+bs5syJjyptAHfqo7H+5Uhz+2blWBfwow==
   dependencies:
     mdast-util-toc "^3.0.0"
     remark-slug "^5.0.0"
