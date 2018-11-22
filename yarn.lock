@@ -4639,10 +4639,19 @@ remark-react@^4.0.3:
     hast-util-sanitize "^1.0.0"
     mdast-util-to-hast "^3.0.0"
 
-remark-slug@^5.0.0, remark-slug@^5.1.0:
+remark-slug@^5.0.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/remark-slug/-/remark-slug-5.1.0.tgz#e55cd92d53395665e26b2994441394127d860abf"
   integrity sha512-FW/V7b3ekfDL1eyPDyzfq0qz5HFPKPNWVC2eqFDie45r774FLGoymOS1oU7LVQfdFNEvNLZ6oBJT/oIxAyBISg==
+  dependencies:
+    github-slugger "^1.0.0"
+    mdast-util-to-string "^1.0.0"
+    unist-util-visit "^1.0.0"
+
+remark-slug@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/remark-slug/-/remark-slug-5.1.1.tgz#eb5dba0cf779487ef7ddf65c735ba4d4ca017542"
+  integrity sha512-r591rdoDPJkSSAVvEaTVUkqbMp7c7AyZfif14V0Dp66GQkOHzaPAS6wyhawSbqpS0ZdTnfJS+TltFoxzi6bdIA==
   dependencies:
     github-slugger "^1.0.0"
     mdast-util-to-string "^1.0.0"
