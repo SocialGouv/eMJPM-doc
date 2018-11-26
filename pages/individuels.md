@@ -4,7 +4,17 @@ title: "documentation Individuels"
 
 # Guide d'utilisation pour les MJPM Individuels
 
-https://www.dailymotion.com/video/x6xupwt
+<br/>
+<br/>
+<br/>
+<br/>
+
+<iframe frameborder="0" width="480" height="270" style={{margin: "auto", display: "block"}} src="https://www.dailymotion.com/embed/video/x6xupwt" allowfullscreen="" allow="autoplay"></iframe>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 [< Revenir à l'accueil](../)
 
