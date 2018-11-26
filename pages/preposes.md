@@ -6,6 +6,8 @@ title: Documentation pour les MJPM Préposés
 
 # Guide d'utilisation pour les MJPM Préposés
 
+https://www.dailymotion.com/video/x6xupwt
+
 [< Revenir à l'accueil](../)
 
 ## Sommaire
