@@ -4,6 +4,8 @@ title: "documentation Individuels"
 
 # Guide d'utilisation pour les MJPM Individuels
 
+https://www.dailymotion.com/video/x6xupwt
+
 [< Revenir à l'accueil](../)
 
 ## Sommaire
