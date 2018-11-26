@@ -15,9 +15,7 @@ title: Documentation pour les MJPM Préposés
 Pour vous créer un compte:
 - Allez sur le site https://emjpm.num.social.gouv.fr/inscription/
 
-<p align="center">
-<img src="/static/images/individuels/Inscription.png" alt="comment s'inscrire etape 1" width="50%" />
-</p>
+![comment s'inscrire etape 1](/static/images/individuels/Inscription.png)
 
 - Sélectionnez les tribunaux où vous êtes agréé.
 
@@ -37,7 +35,7 @@ Votre mot de passe doit être composé de 10 caractères minimum.
 Les champs possédant une astérisque sont obligatoires.
 
 <p align="center">
-<img src="/static/images/preposes/Inscription1.png" alt="comment s'inscrire etape 1" width="50%" />
+<img src={ (process.env.BASE_HREF || "") + "/static/images/preposes/Inscription1.png"} alt="comment s'inscrire etape 2" style={{width: "50%"}}/>
 </p>
 
 &nbsp;
@@ -50,9 +48,7 @@ Pour vous connecter:
 - Allez sur le site [emjpm.beta.gouv.fr](https://emjpm.beta.gouv.fr/)
 - Puis cliquez sur "[se connecter](https://emjpm.num.social.gouv.fr/)" en haut à droite de l'écran.
 
-<p align="center">
-<img src="/static/images/individuels/seconnecter1.png" alt="comment se connecter etape 1" width="50%" />
-</p>
+![comment s'inscrire etape 1](/static/images/individuels/seconnecter1.png)
 
 Une fois sur la page de connexion:
 - Indiquez votre identifiant ainsi que votre mot de passe.
@@ -61,16 +57,12 @@ Une fois sur la page de connexion:
 **Attention:**
  Prenez garde à bien respecter les espaces, les minuscules et majuscules de votre identifiant et de votre mot de passe.
 
-<p align="center">
-<img src="/static/images/individuels/seconnecter2.png" alt="comment se connecter etape 2" width="50%" />
-</p>
+![comment se connecter etape 2](/static/images/individuels/seconnecter2.png)
 
 ### Se deconnecter
 - Cliquez sur le bouton “Se déconnecter” situé en haut à droite de l'écran.
 
-<p align="center">
-<img src="/static/images/individuels/sedeconnecter.png" alt="comment se deconnecter" width="50%" />
-</p>
+![comment se deconnecter](/static/images/individuels/sedeconnecter.png)
 
 &nbsp;
 
@@ -92,9 +84,7 @@ Pour simplifier vos échanges avec les juges, nous vous invitons, dès votre pre
 - Cliquez sur l'onglet "Mes informations".
 - Puis cliquez sur le bouton "Modifier mon profil" en bas de l'écran pour ajouter vos informations.
 
-<p align="center">
-<img src="/static/images/preposes/premiereconnexion1.png" alt="premiere connexion 1" width="50%" />
-</p>
+![premiere connexion 1](/static/images/preposes/premiereconnexion1.png)
 
 Dans la fenêtre qui apparaît:
 - Complétez vos informations.
@@ -106,9 +96,7 @@ Dans la fenêtre qui apparaît:
 
 **Attention:** Les champs possédant une astérisque sont obligatoires.
 
-<p align="center">
-<img src="/static/images/preposes/premiereconnexion2.png" alt="premiere connexion 2" width="50%" />
-</p>
+![premiere connexion 2](/static/images/preposes/premiereconnexion2.png)
 
 **2eme étape : complétez le ou les TI sur le(s)quel(s) vous êtes agréé** 
 
@@ -118,9 +106,7 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous êtes agréé dans plusieurs TI.
 - Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
 
-<p align="center">
-<img src="/static/images/preposes/premiereconnexion4.png" alt="premiere connexion 4" width="50%" />
-</p>
+![premiere connexion 4](/static/images/preposes/premiereconnexion4.png)
 
 **3eme étape : complétez le ou les établissements où vous exercez** 
 
@@ -130,9 +116,7 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous exercez dans plusieurs établissements.
 - Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
 
-<p align="center">
-<img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
-</p>
+![premiere connexion 3](/static/images/preposes/premiereconnexion3.png)
 
 **4eme étape : Saisissez vos mesures en cours** 
 
@@ -151,9 +135,7 @@ Pour saisir vos mesures en cours, suivez les indications listées dans la sectio
 - Cliquez sur l'onglet "Mes informations".
 - Cliquez sur le bouton "Modifier mon profil" en bas de l'écran.
 
-<p align="center">
-<img src="/static/images/preposes/mettreajourmesinfos1.png" alt="comment mettre a jour mes informations 1" width="50%" />
-</p>
+![comment mettre a jour mes informations 1](/static/images/preposes/mettreajourmesinfos1.png)
 
 Dans la fenêtre qui apparaît:
 - Changez les informations souhaitées.
@@ -163,9 +145,7 @@ Dans la fenêtre qui apparaît:
   - Le cas échéant, le nombre d'ETP de secrétariat
 - Puis cliquez sur le bouton "Valider".
 
-<p align="center">
-<img src="/static/images/preposes/mettreajourmesinfos2.png" alt="comment mettre a jour mes informations 2" width="50%" />
-</p>
+![comment mettre a jour mes informations 2](/static/images/preposes/mettreajourmesinfos2.png)
 
 ### Modifier le ou les TI sur le(s)quel(s) vous êtes agréé
 
@@ -175,9 +155,7 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous êtes agréé dans plusieurs TI.
 - Pour supprimer un TI, cliquez sur le signe “-”  situé à côté du nom du TI.
 
-<p align="center">
-<img src="/static/images/preposes/mettreajourmesinfos4.png" alt="comment mettre a jour mes informations 4" width="50%" />
-</p>
+![comment mettre a jour mes informations 4](/static/images/preposes/mettreajourmesinfos4.png)
 
 ### Modifier le ou les établissements où vous exercez 
 
@@ -187,9 +165,7 @@ Dans l'onglet "Mes informations" :
 - Répétez l'opération si vous exercez dans plusieurs établissements.
 - Pour supprimer un établissement, cliquez sur le signe “-”  situé à côté du nom.
 
-<p align="center">
-<img src="/static/images/preposes/premiereconnexion3.png" alt="premiere connexion 3" width="50%" />
-</p>
+![premiere connexion 3](/static/images/preposes/premiereconnexion3.png)
 
 &nbsp;
 
@@ -200,9 +176,7 @@ Dans l'onglet "Mes informations" :
 Dans l'onglet "Mesures en cours" :
 - Cliquez sur le bouton "Créer une nouvelle mesure" à gauche de l'écran.
 
-<p align="center">
-<img src="/static/images/individuels/enregistrermesmesures1.png" alt="comment enregistrer mes mesures 1" width="50%" />
-</p>
+![comment enregistrer mes mesures 1](/static/images/individuels/enregistrermesmesures1.png)
 
 - Complétez pour chaque mesure :
   - La date de décision de la mesure
@@ -216,9 +190,7 @@ Saisissez les premières lettres du nom de l'établissement, des propositions ap
 - Validez la mesure en cliquant sur le bouton "Enregistrer la mesure".
 - Si vous ne désirez pas enregistrer la mesure, cliquez sur le bouton “ Annuler”.
 
-<p align="center">
-<img src="/static/images/individuels/enregistrermesmesures2.png" alt="comment enregistrer mes mesures 2" width="50%" />
-</p>
+![comment enregistrer mes mesures 2](/static/images/individuels/enregistrermesmesures2.png)
 
 La mesure nouvellement saisie apparaît alors dans le tableau listant les mesures en cours. 
 
@@ -226,9 +198,7 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 
  **Attention:** Réitérer l'opération plusieurs fois afin de rentrer l'ensemble de vos mesure en cours. 
 
-<p align="center">
-<img src="/static/images/individuels/enregistrermesmesures3.png" alt="comment enregistrer mes mesures 3" width="50%" />
-</p>
+![comment enregistrer mes mesures 3](/static/images/individuels/enregistrermesmesures3.png)
 
 ### Rajouter une nouvelle mesure
 
@@ -242,9 +212,7 @@ Si vous devez modifier une mesure (par exemple, changement de lieu de vie du maj
 - Cliquez sur l'onglet "Mesures en cours".
 - Puis cliquez sur le bouton « Modifier » correspondant à la mesure concernée.
 
-<p align="center">
-<img src="/static/images/individuels/modifierunemesure1.png" alt="comment modifier une mesure 1" width="50%" />
-</p>
+![comment modifier une mesures 1](/static/images/individuels/modifierunemesure1.png)
 
 Dans la fenêtre qui apparaît:
 - Modifiez les données souhaitées.
@@ -257,9 +225,7 @@ Dans la fenêtre qui apparaît:
 
 **Attention:** Les champs possédant une astérisque sont obligatoires.
 
-<p align="center">
-<img src="/static/images/individuels/modifierunemesure2.png" alt="comment modifier une mesure 2" width="50%" />
-</p>
+![comment modifier une mesures 2](/static/images/individuels/modifierunemesure2.png)
   
 &nbsp;
 
@@ -268,25 +234,19 @@ Dans la fenêtre qui apparaît:
 Dans l'onglet "Mesures en cours" :
 - Cliquez sur le bouton « Mettre fin au mandat » de la mesure concernée. 
 
-<p align="center">
-<img src="/static/images/individuels/mettrefinaumesure1.png" alt="comment mettre fin au mesures 1" width="50%" />
-</p>
+![comment mettre fin au mesures 1](/static/images/individuels/mettrefinaumesure1.png)
 
 Dans la fenêtre qui apparaît:
 - Rentrez la date de fin de mandat.
 - Puis cliquez sur “Eteindre la mesure”.
 
-<p align="center">
-<img src="/static/images/individuels/mettrefinaumesure2.png" alt="comment mettre fin au mesures 2" width="50%" />
-</p>
+![comment mettre fin au mesures 2](/static/images/individuels/mettrefinaumesure2.png)
 
 La mesure apparaît alors dans l'onglet "Mesures éteintes". 
 
 **Attention:** Vous avez toujours la possibilité de réactiver une mesure éteinte par erreur en cliquant sur le bouton "Réactiver la mesure" qui se situe dans l'onglet “Mesures éteintes”.
 
-<p align="center">
-<img src="/static/images/individuels/mettrefinaumesure3.png" alt="comment mettre fin au mesures 3" width="50%" />
-</p>
+![comment mettre fin au mesures 3](/static/images/individuels/mettrefinaumesure3.png)
 
 &nbsp;
 
@@ -294,9 +254,7 @@ La mesure apparaît alors dans l'onglet "Mesures éteintes".
 
 Lorsque le juge prend la décision de vous assigner une mesure, celle-ci apparaît dans l'onglet "Mesure en attente".
 
-<p align="center">
-<img src="/static/images/individuels/consulteretvaliderunemesure1.png" alt="comment consulter et valider une mesure 1" width="50%" />
-</p>
+![comment consulter et valider une mesure 1](/static/images/individuels/consulteretvaliderunemesure1.png)
 
 Les informations suivantes sont listées au sujet de la mesure en attente : 
   - Date de demande
@@ -306,17 +264,13 @@ Les informations suivantes sont listées au sujet de la mesure en attente :
   - La date de naissance du majeur à protéger
 - Cliquez sur le bouton “Valider” une fois le document (papier) reçu afin de transformer cette mesure en attente en mesure en cours. 
 
-<p align="center">
-<img src="/static/images/individuels/consulteretvaliderunemesure2.png" alt="comment consulter et valider une mesure 2" width="50%" />
-</p>
+![comment consulter et valider une mesure 2](/static/images/individuels/consulteretvaliderunemesure2.png)
 
 La mesure nouvellement attribuée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours .  
 
 Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
 
-<p align="center">
-<img src="/static/images/individuels/consulteretvaliderunemesure3.png" alt="comment consulter et valider une mesure 3" width="50%" />
-</p>
+![comment consulter et valider une mesure 3](/static/images/individuels/consulteretvaliderunemesure3.png)
 
 **Attention:** Les juges ayant accès au nombres de mesures en attentes attribuées, merci de bien vouloir valider très régulièrement vos mesures en attentes une fois le document reçu afin de les basculer en mesures en cours. 
 
@@ -339,17 +293,13 @@ Les informations suivantes sont listées :
 Dans l'onglet “Mesures éteintes” 
 - Cliquez sur le bouton "Réactiver la mesure".
 
-<p align="center">
-<img src="/static/images/individuels/mettrefinaumesure3.png" alt="comment mettre fin au mesures 3" width="50%" />
-</p>
+![comment mettre fin au mesures 3](/static/images/individuels/mettrefinaumesure3.png)
 
 La mesure nouvellement réactivée apparaît alors dans l'onglet “Mesures en cours”, et se rajoute au tableau listant l'ensemble des mesures en cours.
 
 Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de l'écran est également automatiquement actualisé.
 
-<p align="center">
-<img src="/static/images/individuels/consulteretvaliderunemesure3.png" alt="comment consulter et valider une mesure 3" width="50%" />
-</p>
+![comment consulter et valider une mesure 3](/static/images/individuels/consulteretvaliderunemesure3.png)
 
 &nbsp;
 
@@ -357,9 +307,7 @@ Le nombre de mesures en cours affiché dans l'onglet situé en haut à gauche de
 
 L'onglet « Vue carte » permet de géolocaliser les mesures en cours.
 
-<p align="center">
-<img src="/static/images/individuels/geolocalisation1.png" alt="comment geolocaliser 1" width="50%" />
-</p>
+![comment geolocaliser 1](/static/images/individuels/geolocalisation1.png)
 
 Cette carte est accessible aux magistrats et offre la possibilité de rationaliser les déplacements.
 - Lorsque vous cliquez sur l'indicateur bleu de localisation géographique, la liste des mesures en cours situées à cet endroit apparaît. Les informations suivantes s'affichent : 
@@ -367,9 +315,7 @@ Cette carte est accessible aux magistrats et offre la possibilité de rationalis
   - La date de naissance du majeur
 - Cliquez sur les symboles “+” ou/et “-” situés à gauche de l'écran afin de zoomer ou dézoomer sur la carte.
 
-<p align="center">
-<img src="/static/images/individuels/geolocalisation2.png" alt="comment geolocaliser 2" width="50%" />
-</p>
+![comment geolocaliser 2](/static/images/individuels/geolocalisation2.png)
 
 &nbsp;
 
