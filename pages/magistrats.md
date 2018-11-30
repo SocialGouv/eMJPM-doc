@@ -1,8 +1,8 @@
----
+import Head from 'next/head';
 
-title: documentation Magistrats
-
----
+<Head>
+ <title>Documentation Magistrats</title>
+</Head>
 
 # Guide d'utilisation pour les Magistrats
 

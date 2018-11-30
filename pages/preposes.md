@@ -1,8 +1,8 @@
----
+import Head from 'next/head';
 
-title: Documentation pour les MJPM Préposés
-
----
+<Head>
+ <title>Documentation pour les MJPM Préposés</title>
+</Head>
 
 # Guide d'utilisation pour les MJPM Préposés
 

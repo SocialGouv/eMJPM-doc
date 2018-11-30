@@ -1,8 +1,8 @@
----
+import Head from 'next/head';
 
-title: documentation Services
-
----
+<Head>
+ <title>Documentation Services</title>
+</Head>
 
 ![banner](/static/images/home-banner.jpg)
 

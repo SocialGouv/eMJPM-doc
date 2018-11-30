@@ -1,6 +1,9 @@
----
-title: "documentation Individuels"
----
+import Head from 'next/head';
+
+<Head>
+ <title>Documentation Individuels</title>
+</Head>
+
 
 # Guide d'utilisation pour les MJPM Individuels
 
