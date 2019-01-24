@@ -4571,10 +4571,10 @@ remark-html@^9.0.0:
     mdast-util-to-hast "^4.0.0"
     xtend "^4.0.1"
 
-remark-images@^0.16.1:
-  version "0.16.1"
-  resolved "https://registry.yarnpkg.com/remark-images/-/remark-images-0.16.1.tgz#66ed08eb32caedd9c011dd9b658d8c4fa7ba42d3"
-  integrity sha512-QAQmAV773JlqtVsqgrJJNZmE50YcTumMidAgf7y+3eTt0EfJsJQsyjyB+x6xu9OT3a5c7sKTdASbCr3lyRKhbg==
+remark-images@^0.16.8:
+  version "0.16.8"
+  resolved "https://registry.yarnpkg.com/remark-images/-/remark-images-0.16.8.tgz#d44b49ac39349cc5e156def8b5b967d5bacf7479"
+  integrity sha512-fFfsoyb0chyD7Hrbe6eBusjE/jQAKAoNuN88WH2BwggQg2Up5I+kCYMvrrmVT0EXW10dEUDuAb6IXA603TVAWg==
   dependencies:
     is-url "^1.2.2"
     unist-util-visit "^1.3.0"
