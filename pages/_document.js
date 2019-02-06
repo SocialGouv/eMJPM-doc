@@ -27,7 +27,7 @@ export default class MyDocument extends Document {
             }
           `}</style>
           <link
-            href="https://unpkg.com/template.data.gouv.fr/dist/style/main.css"
+            href="https://unpkg.com/template.data.gouv.fr@1.1.8/dist/style/main.css"
             rel="stylesheet"
           />
         </Head>
