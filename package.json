@@ -17,7 +17,7 @@
     "url": "https://github.com/SocialGouv/eMJPM-doc/issues"
   },
   "devDependencies": {
-    "@mdx-js/loader": "^0.17.0",
+    "@mdx-js/loader": "^0.17.3",
     "@mdx-js/mdx": "^0.17.0",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-mdx": "^1.2.0",
