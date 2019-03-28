@@ -35,8 +35,8 @@
   },
   "dependencies": {
     "front-matter": "^3.0.1",
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-piwik": "^1.6.0"
   }
 }
