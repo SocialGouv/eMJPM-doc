@@ -2723,10 +2723,17 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.npmjs.org/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-github-slugger@^1.0.0, github-slugger@^1.1.1:
+github-slugger@^1.0.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/github-slugger/-/github-slugger-1.2.0.tgz#8ada3286fd046d8951c3c952a8d7854cfd90fd9a"
   integrity sha512-wIaa75k1vZhyPm9yWrD08A5Xnx/V+RmzGrpjQuLemGKSb77Qukiaei58Bogrl/LZSADDfPzKJX8jhLs4CRTl7Q==
+  dependencies:
+    emoji-regex ">=6.0.0 <=6.1.1"
+
+github-slugger@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-1.2.1.tgz#47e904e70bf2dccd0014748142d31126cfd49508"
+  integrity sha512-SsZUjg/P03KPzQBt7OxJPasGw6NRO5uOgiZ5RGXVud5iSIZ0eNZeNp5rTwCxtavrRUa/A77j8mePVc5lEvk0KQ==
   dependencies:
     emoji-regex ">=6.0.0 <=6.1.1"
 
@@ -2874,6 +2881,18 @@ hast-to-hyperscript@^6.0.0:
     unist-util-is "^2.0.0"
     web-namespaces "^1.1.2"
 
+hast-to-hyperscript@^7.0.0:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/hast-to-hyperscript/-/hast-to-hyperscript-7.0.2.tgz#e9237c88c6069999ad38aec847fefc296f484c4c"
+  integrity sha512-NBMMst0hkDR21uSH75m9W2DkljBrLoMQEhGiLMLNij4HIzEDJMC1UG+CFR6EAjHi2zs3NHBoaAHJOHxftoIN2g==
+  dependencies:
+    comma-separated-tokens "^1.0.0"
+    property-information "^5.0.0"
+    space-separated-tokens "^1.0.0"
+    style-to-object "^0.2.1"
+    unist-util-is "^3.0.0"
+    web-namespaces "^1.1.2"
+
 hast-util-from-parse5@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/hast-util-from-parse5/-/hast-util-from-parse5-5.0.0.tgz#a505a05766e0f96e389bfb0b1dd809eeefcef47b"
@@ -2909,17 +2928,17 @@ hast-util-raw@^5.0.0:
     xtend "^4.0.1"
     zwitch "^1.0.0"
 
-hast-util-sanitize@^1.0.0:
-  version "1.2.0"
-  resolved "https://registry.npmjs.org/hast-util-sanitize/-/hast-util-sanitize-1.2.0.tgz#1a46bc8e8554f4747d219dd1d85f9cb245b1b08d"
-  integrity sha512-VwCTqjt6fbMGacxGB1FKV5sBJaVVkyCGVMDwb4nnqvCW2lkqscA2GEpOyBx4ZWRXty1eAZF58MHBrllEoQEoBg==
+hast-util-sanitize@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/hast-util-sanitize/-/hast-util-sanitize-2.0.1.tgz#de2f32c5aa9e93b61903e4381be6c49887d3829e"
+  integrity sha512-Hk9YC6+HURcdNuBFaPP5nX6xK6zPnm0Dr6QnU4hvvXoStzH5nLI1u71wux6u3fbEQk3/+kTEIcyxRtCA0jt9RA==
   dependencies:
     xtend "^4.0.1"
 
-hast-util-to-html@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/hast-util-to-html/-/hast-util-to-html-5.0.0.tgz#8b5c9710adb0689e3603f552f3104de2507aca35"
-  integrity sha512-vYbSEixfYD3CIqd1rN1Q4T0z0Tyodht0jNst940ESz9g7eaFc0FJADMkdVvlHqDsXVok0vji8FukrBfAH91BWQ==
+hast-util-to-html@^6.0.0:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/hast-util-to-html/-/hast-util-to-html-6.0.1.tgz#46f4f8d4d2e39c0510268c873a82c360766a0366"
+  integrity sha512-9LjLAsO2gPO9H6N0VxZsK4sqNZY1A0lMNDfdpMseryV18Hri2++guFfPmjY58PzmtBlBvDflqktxjSm2I1o1yg==
   dependencies:
     ccount "^1.0.0"
     comma-separated-tokens "^1.0.1"
@@ -2928,8 +2947,8 @@ hast-util-to-html@^5.0.0:
     html-void-elements "^1.0.0"
     property-information "^5.0.0"
     space-separated-tokens "^1.0.0"
-    stringify-entities "^1.0.1"
-    unist-util-is "^2.0.0"
+    stringify-entities "^2.0.0"
+    unist-util-is "^3.0.0"
     xtend "^4.0.1"
 
 hast-util-to-parse5@^5.0.0:
@@ -3195,6 +3214,11 @@ is-decimal@^1.0.0:
   version "1.0.2"
   resolved "https://registry.npmjs.org/is-decimal/-/is-decimal-1.0.2.tgz#894662d6a8709d307f3a276ca4339c8fa5dff0ff"
   integrity sha512-TRzl7mOCchnhchN+f3ICUCzYvL9ul7R+TYOsZ8xia++knyZAJfv/uA1FvQXsAnYIl1T3B2X5E/J7Wb1QXiIBXg==
+
+is-decimal@^1.0.2:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/is-decimal/-/is-decimal-1.0.3.tgz#381068759b9dc807d8c0dc0bfbae2b68e1da48b7"
+  integrity sha512-bvLSwoDg2q6Gf+E2LEPiklHZxxiSi3XAh4Mav65mKqTfCO1HM3uBs24TjEH8iJX3bbDdLXKJXBTmGzuTUuAEjQ==
 
 is-descriptor@^0.1.0:
   version "0.1.6"
@@ -3675,24 +3699,7 @@ mdast-util-to-hast@^3.0.0:
     unist-util-visit "^1.1.0"
     xtend "^4.0.1"
 
-mdast-util-to-hast@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-4.0.0.tgz#d8467ce28ea73b4648667bc389aa39dfa9f67f18"
-  integrity sha512-yOTZSxR1aPvWRUxVeLaLZ1sCYrK87x2Wusp1bDM/Ao2jETBhYUKITI3nHvgy+HkZW54HuCAhHnS0mTcbECD5Ig==
-  dependencies:
-    collapse-white-space "^1.0.0"
-    detab "^2.0.0"
-    mdast-util-definitions "^1.2.0"
-    mdurl "^1.0.1"
-    trim "0.0.1"
-    trim-lines "^1.0.0"
-    unist-builder "^1.0.1"
-    unist-util-generated "^1.1.0"
-    unist-util-position "^3.0.0"
-    unist-util-visit "^1.1.0"
-    xtend "^4.0.1"
-
-mdast-util-to-hast@^6.0.1:
+mdast-util-to-hast@^6.0.0, mdast-util-to-hast@^6.0.1:
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-6.0.1.tgz#98d5ff6d3179d2bb95609a12c8b1e370249d73f2"
   integrity sha512-KRh9wIYzUQk877JcV+8q4FqBUEouLpCKMObqeWg4dnL1/rh9vtSIq5mqQFwIK9YzSULl91F8FP5+EJ/xqRHaBw==
@@ -3709,18 +3716,25 @@ mdast-util-to-hast@^6.0.1:
     unist-util-visit "^1.1.0"
     xtend "^4.0.1"
 
-mdast-util-to-string@^1.0.0, mdast-util-to-string@^1.0.2:
+mdast-util-to-string@^1.0.0:
   version "1.0.5"
   resolved "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-1.0.5.tgz#3552b05428af22ceda34f156afe62ec8e6d731ca"
   integrity sha512-2qLt/DEOo5F6nc2VFScQiHPzQ0XXcabquRJxKMhKte8nt42o08HUxNDPk7tt0YPxnWjAT11I1SYi0X0iPnfI5A==
 
-mdast-util-toc@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-toc/-/mdast-util-toc-3.0.0.tgz#297e2424fe24a11db054fa9ab65d305fdcfae56d"
-  integrity sha512-rdpar0+u7H8RpsxVagGUG11VEaxkWlDefGMarG+6xDurTnkD14DMTDo9FQ1lCC3oElzwF3+EEsfeAd/wHrIjoQ==
+mdast-util-to-string@^1.0.5:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.0.6.tgz#7d85421021343b33de1552fc71cb8e5b4ae7536d"
+  integrity sha512-868pp48gUPmZIhfKrLbaDneuzGiw3OTDjHc5M1kAepR2CWBJ+HpEsm252K4aXdiP5coVZaJPOqGtVU6Po8xnXg==
+
+mdast-util-toc@^4.0.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-toc/-/mdast-util-toc-4.2.0.tgz#9085c4313359c981e4c1d22efe02f8ce01072da4"
+  integrity sha512-BEbxg3GtAsvswmV9bMAV/WJA7v0CsG5tYk90xnTlIeCnnBKD6Cof3KEg/K3xQ1O2FRyJKMWkgKZB2mpnOjA0tg==
   dependencies:
-    github-slugger "^1.1.1"
-    mdast-util-to-string "^1.0.2"
+    extend "^3.0.2"
+    github-slugger "^1.2.1"
+    mdast-util-to-string "^1.0.5"
+    unist-util-is "^3.0.0"
     unist-util-visit "^1.1.0"
 
 mdurl@^1.0.1:
@@ -4917,14 +4931,14 @@ remark-frontmatter@^1.3.2:
     fault "^1.0.1"
     xtend "^4.0.1"
 
-remark-html@^9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/remark-html/-/remark-html-9.0.1.tgz#37c097396651a63d2f7d48d0168a554b3ec6b307"
-  integrity sha512-1Kbk5nb3RCdVxWATOu+ZW66muXoe0NjVgIxFmCb5eOB9Vezgd7gqkOhkKjKks9Jgorwiv5l81av64UWAwuYD/Q==
+remark-html@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/remark-html/-/remark-html-10.0.0.tgz#927047c16845ec47e2c361e1d7f7c32ab72c63c7"
+  integrity sha512-TbSQuedRFjAhXSk1NAbfaTqDK0jKAjfgn82D2ZYFFT8XpJ80uwXc8yVwK/Tl2eqboTMPxzNzCIss4kIucE5M8w==
   dependencies:
-    hast-util-sanitize "^1.0.0"
-    hast-util-to-html "^5.0.0"
-    mdast-util-to-hast "^4.0.0"
+    hast-util-sanitize "^2.0.0"
+    hast-util-to-html "^6.0.0"
+    mdast-util-to-hast "^6.0.0"
     xtend "^4.0.1"
 
 remark-images@^1.0.0:
@@ -5012,24 +5026,15 @@ remark-parse@^6.0.3:
     vfile-location "^2.0.0"
     xtend "^4.0.1"
 
-remark-react@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/remark-react/-/remark-react-5.0.1.tgz#fc89c89fde282e4d277a6234e4613b126f2b042f"
-  integrity sha512-yHv5WIh47srKfdm794UMIHjNLr6EY2YCzsqvdJ/qvN1Tq1jgyg3q8Zo9pJc4L7BwZOMTia6O2JgrJeOsJfowzA==
+remark-react@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/remark-react/-/remark-react-6.0.0.tgz#2bc46ce2ba74a8561d8984bf7885b5eb1ebc8273"
+  integrity sha512-5g73p8ZuqKoSdKByEf6IbXtVaHnbSEV0aamhIIqpzeNvj1wWDPX0USSPs4Gf3ZAsQIehIp6QiqJIbbXpq74bug==
   dependencies:
     "@mapbox/hast-util-table-cell-style" "^0.1.3"
-    hast-to-hyperscript "^6.0.0"
-    hast-util-sanitize "^1.0.0"
-    mdast-util-to-hast "^4.0.0"
-
-remark-slug@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/remark-slug/-/remark-slug-5.1.0.tgz#e55cd92d53395665e26b2994441394127d860abf"
-  integrity sha512-FW/V7b3ekfDL1eyPDyzfq0qz5HFPKPNWVC2eqFDie45r774FLGoymOS1oU7LVQfdFNEvNLZ6oBJT/oIxAyBISg==
-  dependencies:
-    github-slugger "^1.0.0"
-    mdast-util-to-string "^1.0.0"
-    unist-util-visit "^1.0.0"
+    hast-to-hyperscript "^7.0.0"
+    hast-util-sanitize "^2.0.0"
+    mdast-util-to-hast "^6.0.0"
 
 remark-slug@^5.1.2:
   version "5.1.2"
@@ -5067,13 +5072,12 @@ remark-stringify@^6.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-toc@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-5.1.1.tgz#8c229d6f834cdb43fde6685e2d43248d3fc82d78"
-  integrity sha512-vCPW4YOsm2CfyuScdktM9KDnJXVHJsd/ZeRtst+dnBU3B3KKvt8bc+bs5syJjyptAHfqo7H+5Uhz+2blWBfwow==
+remark-toc@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/remark-toc/-/remark-toc-6.0.0.tgz#32210839ab74a8ac3696aa78a178338989c5a76f"
+  integrity sha512-h3I79AOiza+/JzfeWPOfKE13ISVsgX7/huHvhYQG5Xe4Pe2U/CTXDSl0Dqr5O2hBub+gBS1kM1lEALk4jv7qBA==
   dependencies:
-    mdast-util-toc "^3.0.0"
-    remark-slug "^5.0.0"
+    mdast-util-toc "^4.0.0"
 
 remark@^10.0.1:
   version "10.0.1"
@@ -5540,6 +5544,17 @@ stringify-entities@^1.0.1:
     character-entities-html4 "^1.0.0"
     character-entities-legacy "^1.0.0"
     is-alphanumerical "^1.0.0"
+    is-hexadecimal "^1.0.0"
+
+stringify-entities@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/stringify-entities/-/stringify-entities-2.0.0.tgz#fa7ca6614b355fb6c28448140a20c4ede7462827"
+  integrity sha512-fqqhZzXyAM6pGD9lky/GOPq6V4X0SeTAFBl0iXb/BzOegl40gpf/bV3QQP7zULNYvjr6+Dx8SCaDULjVoOru0A==
+  dependencies:
+    character-entities-html4 "^1.0.0"
+    character-entities-legacy "^1.0.0"
+    is-alphanumerical "^1.0.0"
+    is-decimal "^1.0.2"
     is-hexadecimal "^1.0.0"
 
 strip-ansi@5.2.0:
