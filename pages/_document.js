@@ -13,15 +13,11 @@ export default class MyDocument extends Document {
       <html>
         <Head>
           <title>Documentation</title>
-          <style>{`body,  ul li p { margin: 0 } /* custom! */`}</style>
+          <style>{`body,  ul li p { margin: 0 } img { max-width: 100%; }`}</style>
           <style global jsx>{`
             body,
             ul li p {
               margin: 0;
-            }
-
-            img {
-              max-width: 100%;
             }
 
             .panel img {
