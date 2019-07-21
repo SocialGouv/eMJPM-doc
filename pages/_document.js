@@ -20,6 +20,10 @@ export default class MyDocument extends Document {
               margin: 0;
             }
 
+            img {
+              max-width: 100%;
+            }
+
             .panel img {
               width: 75%;
               display: block;
