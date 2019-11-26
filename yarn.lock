@@ -5232,10 +5232,10 @@ react-is@16.8.6, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-piwik@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/react-piwik/-/react-piwik-1.7.0.tgz#7f0919e7f0f936c5c4b3682424355f9915b4bc9b"
-  integrity sha512-7nDwVFtOuKmFDXmb1VEUU7H/4iXwV2+FZDG0fkANVJM5Cj8NgS/i8mZGC5PUt1kbQp5UzigwJqk8XROyyDNBCg==
+react-piwik@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/react-piwik/-/react-piwik-1.8.0.tgz#f0ff0d54c4923c80c9497b728a1863c4d2609cfc"
+  integrity sha512-ZpT7oPcdSIXt1yZvRWU/qq/EX7rXZELkwEJq2cDDejFlVYq7NKXtiMpuAvkO6QNeFwOmkO/820MHgmJ+fDug/Q==
 
 react@^16.10.2:
   version "16.10.2"
